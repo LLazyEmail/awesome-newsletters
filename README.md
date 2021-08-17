@@ -26,3 +26,5 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 
 
 - https://github.com/artf/grapesjs-mjml
+
+- https://github.com/zudochkin/awesome-newsletters
