@@ -28,3 +28,7 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 - https://github.com/artf/grapesjs-mjml
 
 - https://github.com/zudochkin/awesome-newsletters
+
+---
+
+- https://www.producthunt.com/posts/million-dollar-email-templates-2-0
