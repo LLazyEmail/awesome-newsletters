@@ -32,3 +32,5 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 ---
 
 - https://www.producthunt.com/posts/million-dollar-email-templates-2-0
+
+- https://codepen.io/reallygoodemails/pen/zYYPWVR
