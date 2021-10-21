@@ -31,6 +31,15 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 
 ---
 
+
+
+### Great articles to read
+
+- [What Is the Purpose of a Newsletter? + Newsletter Examples](https://www.campaignmonitor.com/resources/knowledge-base/what-is-the-purpose-of-a-newsletter-why-is-it-important/)
+
+
+
+
 - https://www.producthunt.com/posts/million-dollar-email-templates-2-0
 
 - https://codepen.io/reallygoodemails/pen/zYYPWVR
