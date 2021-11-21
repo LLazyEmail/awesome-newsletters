@@ -46,3 +46,13 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 
 - https://reallygoodemails.com/
 - https://www.mailcharts.com/companies/canva-email-marketing
+
+
+
+---
+
+
+- https://github.com/Slicejack/bojler
+- https://github.com/maizzle/maizzle
+- https://github.com/sglazov/pechkin
+- https://github.com/5t3ph/11ty-email-generator/blob/main/src/_data/meta.js
