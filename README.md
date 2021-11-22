@@ -24,6 +24,7 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 
 - https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/
 
+---
 
 - https://github.com/artf/grapesjs-mjml
 
