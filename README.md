@@ -56,6 +56,9 @@ Repositories related to emails
 * [https://github.com/sglazov/pechkin](https://github.com/sglazov/pechkin)
 
 
+[https://github.com/premailer/premailer](https://github.com/premailer/premailer)
+
+[https://github.com/foundation/inky](https://github.com/foundation/inky)
 
 
 
