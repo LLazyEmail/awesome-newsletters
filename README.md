@@ -120,3 +120,9 @@ https://www.google.com/search?q=list+of+newsletters&ei=2KoSYYyxOoH5rgTTlarYAg&oq
 - https://github.com/maizzle/maizzle
 - https://github.com/sglazov/pechkin
 - https://github.com/5t3ph/11ty-email-generator/blob/main/src/_data/meta.js
+
+
+
+https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln
+
+https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123
