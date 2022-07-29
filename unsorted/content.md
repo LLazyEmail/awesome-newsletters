@@ -1,10 +1,10 @@
-- https://en.wikipedia.org/wiki/Direct-to-consumer_advertising
+- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising)
 
-- https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/
+- [E-mail versus print](https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/)
 
-- https://www.brafton.com/what-is-a-newsletter/
+- [What is a Newsletter? The Ultimate Guide](https://www.brafton.com/what-is-a-newsletter/)
 
-- https://sendpulse.com/support/glossary/email-newsletter
+- [What is Email Newsletter? - Definition and Tips](https://sendpulse.com/support/glossary/email-newsletter)
 
-- https://the1a.org/segments/substack-newsletter-blog/
+- [Why Is Everyone Talking About Newsletters?](https://the1a.org/segments/substack-newsletter-blog/)
 
