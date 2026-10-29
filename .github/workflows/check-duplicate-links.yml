@@ -1,0 +1,25 @@
+name: Check duplicate links
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'scripts/check-duplicate-links.mjs'
+      - '.github/workflows/check-duplicate-links.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'scripts/check-duplicate-links.mjs'
+
+jobs:
+  duplicates:
+    name: duplicate-links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check duplicate links
+        run: node scripts/check-duplicate-links.mjs --warn
