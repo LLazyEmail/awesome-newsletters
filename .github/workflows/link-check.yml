@@ -8,45 +8,19 @@ on:
       - '.github/workflows/link-check.yml'
       - '.lychee.toml'
   schedule:
-    - cron: '0 9 * * 1'  # Mondays 09:00 UTC
+    - cron: '0 9 * * 1'
   workflow_dispatch:
 
 jobs:
   lychee:
-    name: lychee
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Link check
-        id: lychee
-        uses: lycheeverse/lychee-action@v2
-        with:
-          # Soft on PRs: flaky externals + known annotated 404s should not block merges.
-          # Scheduled runs still produce a summary for maintainers.
-          args: >-
-            --verbose
-            --no-progress
-            --max-concurrency 8
-            --accept 200,204,206,403,429
-            --timeout 20
-            README.md notes/**
-          fail: false
-          format: markdown
-          output: lychee-out.md
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Write job summary
-        if: always()
-        run: |
-          {
-            echo "## Lychee link check"
-            echo
-            if [ -f lychee-out.md ]; then
-              cat lychee-out.md
-            else
-              echo "_No lychee output file produced._"
-            fi
-          } >> "$GITHUB_STEP_SUMMARY"
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-link-check.yml@main
+    with:
+      args: >-
+        --verbose
+        --no-progress
+        --max-concurrency 8
+        --accept 200,204,206,403,429
+        --timeout 20
+        README.md notes/**
+      create-issue: false
+    secrets: inherit
