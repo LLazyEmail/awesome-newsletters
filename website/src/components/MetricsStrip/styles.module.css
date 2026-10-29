@@ -1,0 +1,23 @@
+.strip {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  background: var(--ifm-color-emphasis-100);
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+  text-align: center;
+}
+.item {
+  min-width: 8rem;
+}
+.value {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.label {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
