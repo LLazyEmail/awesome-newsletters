@@ -7,6 +7,8 @@
 
 A curated collection of newsletter directories, articles, tools, templates, and related resources for building and growing email newsletters.
 
+Docs site (GitHub Pages): [`https://llazyemail.github.io/awesome-newsletters/`](https://llazyemail.github.io/awesome-newsletters/) — source under [`website/`](./website/).
+
 > Sister list: [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing) · Related list: [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) (developer newsletter directories)
 
 ## Table of Contents
