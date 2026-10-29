@@ -24,10 +24,17 @@ Docs site (GitHub Pages): [`https://llazyemail.github.io/awesome-newsletters/`](
   - [React / component tooling](#react--component-tooling)
   - [Markdown / Remark tooling](#markdown--remark-tooling)
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
+- [Community & forums](#community--forums)
+- [Podcasts](#podcasts)
+- [Compliance & privacy](#compliance--privacy)
+- [Careers & jobs](#careers--jobs)
+- [Writer & editing tools](#writer--editing-tools)
+- [Referral & growth tools](#referral--growth-tools)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Newsletters to study](#newsletters-to-study)
 - [Newsletter analytics & metrics](#newsletter-analytics--metrics)
+- [Newsletter platforms](#newsletter-platforms)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,14 +55,14 @@ Curated “best of” lists and directories of newsletters to subscribe to or st
 ## Great articles to read
 
 - [Automating newsletters generation from RSS feeds using Platypush](https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln) (HackerNoon)
-- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising) (Wikipedia)
+- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising) (Wikipedia) — background on DTC advertising models
 - [E-mail versus print](https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/) (University of Washington)
 - [Email newsletter statistics](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (Upland PostUp)
 - [Everything old is new again: the state of newsletters](https://localnewslab.org/guide/newsletters/everything-old-is-new-again-the-state-of-newsletters/) (Local News Lab)
 - [Mailcharts: Canva email marketing](https://www.mailcharts.com/companies/canva-email-marketing)
 - [Million Dollar Email Templates 2.0](https://www.producthunt.com/posts/million-dollar-email-templates-2-0) (Product Hunt)
-- [Really Good Emails](https://reallygoodemails.com/)
-- [Really Good Emails CodePen example](https://codepen.io/reallygoodemails/pen/zYYPWVR)
+- [Really Good Emails](https://reallygoodemails.com/) — gallery of real email designs and campaigns
+- [Really Good Emails CodePen example](https://codepen.io/reallygoodemails/pen/zYYPWVR) — sample HTML email layout on CodePen
 - [The best free email template builders and editors](https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123) (HackerNoon)
 - [What is a Newsletter? The Ultimate Guide](https://www.brafton.com/what-is-a-newsletter/) (Brafton)
 - [What is Email Newsletter? - Definition and Tips](https://sendpulse.com/support/glossary/email-newsletter) (SendPulse)
@@ -179,6 +186,57 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [SSL note / Control Panel KB](https://controlpanel.tech/kb/answer/2391)
 - [Zapier: Tweet new Sendy campaigns](https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget)
 
+
+## Community & forums
+
+Places to talk shop with other newsletter operators (extend, do not replace directories):
+
+- [Indie Hackers](https://www.indiehackers.com/) — founder discussions, including newsletter builds
+- [r/newsletter](https://www.reddit.com/r/newsletter/) — Reddit community for newsletter creators and readers
+- [r/Emailmarketing](https://www.reddit.com/r/Emailmarketing/) — broader email marketing discussion
+- [Only Influencers](https://www.onlyinfluencers.com/) — email industry community and commentary
+
+## Podcasts
+
+Podcasts and shows that regularly cover newsletters, creators, and email media:
+
+- [Newsletter Operator](https://newsletteroperator.com/) — interviews with newsletter operators
+- [The Nathan Barry Show](https://nathanbarry.com/podcast/) — ConvertKit/Kit founder on creators and audience
+- [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) — often features newsletter-led businesses
+
+## Compliance & privacy
+
+Legal and privacy baselines every list should track (not legal advice):
+
+- [CAN-SPAM Act: Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) — US FTC guide
+- [GDPR.eu](https://gdpr.eu/) — GDPR overview and checklists
+- [CASL guidance (CRTC)](https://crtc.gc.ca/eng/internet/anti.htm) — Canada anti-spam legislation overview
+
+## Careers & jobs
+
+Where newsletter and email roles often show up:
+
+- [Wellfound (AngelList)](https://wellfound.com/) — startup jobs including content/newsletter roles
+- [Remote OK](https://remoteok.com/) — remote listings (filter for content / email)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) — search “newsletter” / “email marketing”
+
+## Writer & editing tools
+
+Tools writers use alongside ESPs (does not replace Templates or Platforms sections):
+
+- [Grammarly](https://www.grammarly.com/) — grammar and clarity assistance
+- [Hemingway Editor](https://hemingwayapp.com/) — readability highlighting
+- [Notion](https://www.notion.com/) — drafting and editorial calendars
+- [Google Docs](https://docs.google.com/) — collaborative drafting
+
+## Referral & growth tools
+
+Productized referral and growth helpers (complements Demand Curve & Building a list; distinct from Analytics):
+
+- [SparkLoop](https://sparkloop.app/) — newsletter referral and recommend networks
+- [Growletters](https://www.growletters.com/) — growth tooling for newsletters
+- [Rewardful](https://www.rewardful.com/) — affiliate/referral for SaaS-style offers
+
 ## Arthur Tkachenko articles
 
 - [5 reasons why newsletters should be part of your business strategy](https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy)
@@ -222,6 +280,16 @@ Resources for measuring newsletter performance (opens are increasingly noisy —
 - [Mailchimp: email marketing benchmarks](https://mailchimp.com/resources/email-marketing-benchmarks/) — industry benchmark ranges by sector
 - [SparkLoop](https://sparkloop.app/) — referral and growth analytics aimed at newsletter audiences
 - [Valid Emails: email marketing metrics that matter](https://www.validemails.com/blog/email-marketing-metrics) — concise metrics checklist for operators
+
+## Newsletter platforms
+
+Tools commonly used to write, host, and send independent newsletters. For broader ESP coverage see [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing).
+
+- [beehiiv](https://www.beehiiv.com/) — newsletter platform focused on growth, referrals, and monetization
+- [Buttondown](https://buttondown.email/) — simple, writer-friendly hosted newsletters with a plain-text ethos
+- [ConvertKit (Kit)](https://convertkit.com/) — creator marketing hub with sequences and commerce
+- [Ghost](https://ghost.org/) — open-source publishing platform with memberships and newsletters
+- [Substack](https://substack.com/) — popular subscription newsletter network and editor
 
 ## Contributing
 
