@@ -14,12 +14,8 @@ on:
 
 jobs:
   sorted:
-    name: sorted-sections
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - name: Check section sort order (warn-only)
-        run: node scripts/check-sorted-sections.mjs
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@main
+    with:
+      checks: sorted-sections
+      sorted-mode: warn
+      node-version: '20'
