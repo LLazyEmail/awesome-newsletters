@@ -14,12 +14,8 @@ on:
 
 jobs:
   duplicates:
-    name: duplicate-links
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - name: Check duplicate links
-        run: node scripts/check-duplicate-links.mjs --warn
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@main
+    with:
+      checks: duplicate-links
+      duplicate-mode: warn
+      node-version: '20'
