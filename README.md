@@ -22,6 +22,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
   - [React / component tooling](#react--component-tooling)
   - [Markdown / Remark tooling](#markdown--remark-tooling)
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
+- [Compliance & privacy](#compliance-privacy)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Contributing](#contributing)
@@ -171,6 +172,15 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [Sendy forum: email templates resources](https://sendy.co/forum/discussion/945/email-templates-resources)
 - [SSL note / Control Panel KB](https://controlpanel.tech/kb/answer/2391)
 - [Zapier: Tweet new Sendy campaigns](https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget)
+
+
+## Compliance & privacy
+
+Legal and privacy baselines every list should track (not legal advice):
+
+- [CAN-SPAM Act: Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) — US FTC guide
+- [GDPR.eu](https://gdpr.eu/) — GDPR overview and checklists
+- [CASL guidance (CRTC)](https://crtc.gc.ca/eng/internet/anti.htm) — Canada anti-spam legislation overview
 
 ## Arthur Tkachenko articles
 
