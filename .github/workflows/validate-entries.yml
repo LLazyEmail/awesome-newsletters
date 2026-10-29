@@ -1,0 +1,25 @@
+name: Validate README entries
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'scripts/validate-entry-format.mjs'
+      - '.github/workflows/validate-entries.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'scripts/validate-entry-format.mjs'
+
+jobs:
+  entry-format:
+    name: entry-format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate entry format
+        run: node scripts/validate-entry-format.mjs
