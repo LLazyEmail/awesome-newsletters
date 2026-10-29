@@ -24,6 +24,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
+- [Newsletters to study](#newsletters-to-study)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -193,6 +194,19 @@ Early lesson/course planning notes are preserved under [`notes/`](./notes/README
 ## Link health
 
 Entries marked ⚠️ failed an automated HEAD/GET check on 2026-10-29 (404/5xx or dead host). They are **kept** until a maintainer confirms a replacement or removal. Soft failures (403/SSL/429) are often bot-blocks and are not annotated.
+
+
+## Newsletters to study
+
+Well-known publications worth reading as craft references (not an endorsement of every business model). Alphabetized.
+
+- [Dense Discovery](https://www.dense-discovery.com/) — design & curiosity newsletter with a distinctive editorial voice
+- [Lenny's Newsletter](https://www.lennysnewsletter.com/) — product and growth essays popular with operators
+- [Morning Brew](https://www.morningbrew.com/) — high-volume business newsletter known for voice and growth loops
+- [Stratechery](https://stratechery.com/) — subscription analysis of strategy and tech platforms
+- [The Hustle](https://thehustle.co/) — business/tech stories with a strong free-to-paid funnel history
+- [The Lookout](https://blog.pragmaticengineer.com/) — engineering leadership writing (Pragmatic Engineer)
+- [TLDR](https://tldr.tech/) — curated tech news digests with clear niche editions
 
 ## Contributing
 
