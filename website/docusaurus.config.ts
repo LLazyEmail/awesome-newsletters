@@ -94,6 +94,8 @@ const config: Config = {
           items: [
             {label: 'Overview', to: '/docs/'},
             {label: 'Directories', to: '/docs/directories'},
+            {label: 'Growth tactics', to: '/docs/growth'},
+            {label: 'Templates', to: '/docs/templates'},
           ],
         },
         {
@@ -102,6 +104,10 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/LLazyEmail/awesome-newsletters',
+            },
+            {
+              label: 'Contributing',
+              href: 'https://github.com/LLazyEmail/awesome-newsletters/blob/main/CONTRIBUTING.md',
             },
             {
               label: 'Awesome Email Marketing',
