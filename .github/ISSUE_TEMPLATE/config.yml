@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Awesome Email Marketing (sister list)
+    url: https://github.com/LLazyEmail/awesome-email-marketing
+    about: Tools, ESPs, and email-marketing resources (not newsletter craft)
+  - name: Contributing guide
+    url: https://github.com/LLazyEmail/awesome-newsletters/blob/main/CONTRIBUTING.md
+    about: How to open a small, focused PR
