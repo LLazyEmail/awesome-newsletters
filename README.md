@@ -35,6 +35,7 @@ Curated “best of” lists and directories of newsletters to subscribe to or st
 - [Supply Chain Digital: Top 10 supply chain newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters)
 - [The Coolist: Best newsletters](https://www.thecoolist.com/best-newsletters/)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) — categorized developer & tech newsletters (related awesome list)
+
 ## Great articles to read
 
 - [Automating newsletters generation from RSS feeds using Platypush](https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln) (HackerNoon)
@@ -52,6 +53,7 @@ Curated “best of” lists and directories of newsletters to subscribe to or st
 - [What Is the Purpose of a Newsletter? + Newsletter Examples](https://www.campaignmonitor.com/resources/knowledge-base/what-is-the-purpose-of-a-newsletter-why-is-it-important/) (Campaign Monitor)
 - [Why email newsletters?](https://localnewslab.org/guide/newsletters/why-email-newsletters/) (Local News Lab)
 - [Why Is Everyone Talking About Newsletters?](https://the1a.org/segments/substack-newsletter-blog/) (1A)
+
 ## Demand Curve & growth tactics
 
 Articles and resources around Demand Curve tactics, on-demand newsletters, and growth.
@@ -75,6 +77,7 @@ Articles and resources around Demand Curve tactics, on-demand newsletters, and g
 - [On-demand newsletters](http://www.tlehs.com/on-demand-newsletters)
 - [Partner Demand newsletters](https://www.partnerdemand.com/hpi/newsletters)
 - [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters) (Contactually)
+
 ## Building a list
 
 Ideas and tactics for growing a subscriber list. Also see the longer scratch notes under [Course / lesson scratch notes](#course--lesson-scratch-notes).
@@ -125,12 +128,20 @@ From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize
 - [bojler](https://github.com/Slicejack/bojler)
 - [grapesjs-mjml](https://github.com/artf/grapesjs-mjml)
 - [maizzle](https://github.com/maizzle/maizzle)
-- [marked](https://github.com/markedjs/marked)
-- [mdx](https://github.com/mdx-js/mdx)
 - [pechkin](https://github.com/sglazov/pechkin)
+
+### React / component tooling
+
 - [react-confirm-email](https://github.com/funador/react-confirm-email)
 - [react-emails (lang-ai)](https://github.com/lang-ai/react-emails)
 - [react-multi-email](https://github.com/jsdevkr/react-multi-email)
+
+### Markdown / Remark tooling
+
+Plugins and libraries noted for newsletter/markdown pipelines:
+
+- [marked](https://github.com/markedjs/marked)
+- [mdx](https://github.com/mdx-js/mdx)
 - [remark-breaks](https://github.com/remarkjs/remark-breaks)
 - [remark-capitalize](https://github.com/vercel/remark-capitalize)
 - [remark-first-heading](https://github.com/laat/remark-first-heading)
@@ -142,13 +153,6 @@ From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize
 - [remark-macro](https://github.com/dimerapp/remark-macro)
 - [remark-normalize-headings](https://github.com/remarkjs/remark-normalize-headings)
 - [remark-rehype](https://github.com/remarkjs/remark-rehype)
-### React / component tooling
-
-
-### Markdown / Remark tooling
-
-Plugins and libraries noted for newsletter/markdown pipelines:
-
 
 ## Ops, deliverability & Sendy notes
 
@@ -162,6 +166,7 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [Sendy forum: email templates resources](https://sendy.co/forum/discussion/945/email-templates-resources)
 - [SSL note / Control Panel KB](https://controlpanel.tech/kb/answer/2391)
 - [Zapier: Tweet new Sendy campaigns](https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget)
+
 ## Arthur Tkachenko articles
 
 - [5 reasons why newsletters should be part of your business strategy](https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy)
@@ -175,6 +180,7 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [Introducing a simple npm module with email templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
 - [Organizing an advanced structure for HTML email template](https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template)
 - [Together4Victory: list of email marketing tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
+
 ## Course / lesson scratch notes
 
 Early lesson/course planning notes are preserved under [`notes/`](./notes/README.md). Topics sketched there include exploring 10 newsletters, slide-per-lesson recording tips, and list-building playbooks. Original filenames were lightly normalized; content was not deleted.
