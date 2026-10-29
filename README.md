@@ -22,6 +22,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
   - [React / component tooling](#react--component-tooling)
   - [Markdown / Remark tooling](#markdown--remark-tooling)
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
+- [Referral & growth tools](#referral-growth-tools)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Contributing](#contributing)
@@ -171,6 +172,15 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [Sendy forum: email templates resources](https://sendy.co/forum/discussion/945/email-templates-resources)
 - [SSL note / Control Panel KB](https://controlpanel.tech/kb/answer/2391)
 - [Zapier: Tweet new Sendy campaigns](https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget)
+
+
+## Referral & growth tools
+
+Productized referral and growth helpers (complements Demand Curve & Building a list; distinct from Analytics):
+
+- [SparkLoop](https://sparkloop.app/) — newsletter referral and recommend networks
+- [Growletters](https://www.growletters.com/) — growth tooling for newsletters
+- [Rewardful](https://www.rewardful.com/) — affiliate/referral for SaaS-style offers
 
 ## Arthur Tkachenko articles
 
