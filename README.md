@@ -126,6 +126,10 @@ From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize
 - [Litmus community: accessible newsletter email](https://litmus.com/community/templates/32-accessible-newsletter-email) — ⚠️ 404 when checked 2026-10-29
 - [The Grind News (layout reference)](https://thegrind.news/)
 
+- [Can I email](https://www.caniemail.com/) — support tables for HTML/CSS features in email clients
+- [MJML](https://mjml.io/) — responsive email framework that compiles to client-friendly HTML
+- [Maizzle documentation](https://maizzle.com/docs/) — Tailwind-based email framework docs
+
 ## GitHub repositories
 
 ### Email builders & frameworks
