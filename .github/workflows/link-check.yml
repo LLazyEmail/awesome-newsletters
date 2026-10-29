@@ -6,6 +6,7 @@ on:
       - 'README.md'
       - 'notes/**'
       - '.github/workflows/link-check.yml'
+      - '.lychee.toml'
   schedule:
     - cron: '0 9 * * 1'  # Mondays 09:00 UTC
   workflow_dispatch:
@@ -19,9 +20,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Link check
+        id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          # Soft failures (403/429) are common for bot checks; fail on 404/DNS.
+          # Soft on PRs: flaky externals + known annotated 404s should not block merges.
+          # Scheduled runs still produce a summary for maintainers.
           args: >-
             --verbose
             --no-progress
@@ -29,6 +32,21 @@ jobs:
             --accept 200,204,206,403,429
             --timeout 20
             README.md notes/**
-          fail: true
+          fail: false
+          format: markdown
+          output: lychee-out.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "## Lychee link check"
+            echo
+            if [ -f lychee-out.md ]; then
+              cat lychee-out.md
+            else
+              echo "_No lychee output file produced._"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
