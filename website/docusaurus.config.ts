@@ -75,6 +75,11 @@ const config: Config = {
           label: 'Resources',
         },
         {
+          to: '/explore',
+          label: 'Explore',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/LLazyEmail/awesome-newsletters',
           label: 'GitHub',
           position: 'right',
