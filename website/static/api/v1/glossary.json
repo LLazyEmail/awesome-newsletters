@@ -1,0 +1,62 @@
+[
+  {
+    "term": "ESP",
+    "definition": "Email Service Provider — a platform used to send, manage, and measure newsletter or marketing campaigns (e.g. Beehiiv, Substack, ConvertKit)."
+  },
+  {
+    "term": "Open Rate",
+    "definition": "The percentage of delivered emails that were opened. Increasingly noisy due to Apple Mail Privacy Protection."
+  },
+  {
+    "term": "CTR",
+    "definition": "Click-Through Rate — the percentage of recipients who clicked one or more links in a newsletter issue."
+  },
+  {
+    "term": "List Building",
+    "definition": "Growing an email audience through opt-in forms, lead magnets, referrals, cross-promotion, and content upgrades."
+  },
+  {
+    "term": "Double Opt-In",
+    "definition": "A subscription flow that requires the subscriber to confirm via a follow-up email before they are added to the list."
+  },
+  {
+    "term": "Deliverability",
+    "definition": "The ability for legitimate newsletter email to reach the inbox rather than spam or promotions folders."
+  },
+  {
+    "term": "SPF",
+    "definition": "Sender Policy Framework — a DNS record that lists which servers are allowed to send email for a domain."
+  },
+  {
+    "term": "DKIM",
+    "definition": "DomainKeys Identified Mail — a cryptographic signature that proves an email was authorized by the sending domain."
+  },
+  {
+    "term": "DMARC",
+    "definition": "Domain-based Message Authentication, Reporting, and Conformance — a policy for SPF/DKIM failures and reporting."
+  },
+  {
+    "term": "Warm-up",
+    "definition": "Gradually increasing send volume from a new domain or IP so mailbox providers learn to trust the sender."
+  },
+  {
+    "term": "Sponsorship",
+    "definition": "Paid placement in a newsletter issue — a common monetization model for independent publishers."
+  },
+  {
+    "term": "Paid Subscription",
+    "definition": "Charging readers a recurring fee for premium newsletter content or an ad-free experience."
+  },
+  {
+    "term": "Lead Magnet",
+    "definition": "A free resource (checklist, PDF, mini-course) offered in exchange for an email address."
+  },
+  {
+    "term": "Referral Program",
+    "definition": "Incentives for existing subscribers to invite others, often unlocking bonus content or swag."
+  },
+  {
+    "term": "Welcome Sequence",
+    "definition": "An automated series of emails sent after someone subscribes, introducing the brand and setting expectations."
+  }
+]
