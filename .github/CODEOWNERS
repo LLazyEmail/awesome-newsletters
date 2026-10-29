@@ -1,0 +1,12 @@
+# Default owners for Awesome Newsletters
+*       @atherdon @LLazyEmail/maintainers
+
+# Curated list and notes
+/README.md       @atherdon
+/notes/          @atherdon
+
+# Website
+/website/        @atherdon
+
+# CI / automation
+/.github/        @atherdon
