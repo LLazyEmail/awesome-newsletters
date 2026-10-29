@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
@@ -33,6 +34,7 @@ export default function Home(): ReactNode {
       description="Curated newsletter directories, articles, tools, and resources.">
       <HomepageHeader />
       <main>
+        <HomepageFeatures />
         <section className={styles.features}>
           <div className="container">
             <p>
