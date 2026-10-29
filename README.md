@@ -22,6 +22,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
   - [React / component tooling](#react--component-tooling)
   - [Markdown / Remark tooling](#markdown--remark-tooling)
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
+- [Careers & jobs](#careers-jobs)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Contributing](#contributing)
@@ -171,6 +172,15 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 - [Sendy forum: email templates resources](https://sendy.co/forum/discussion/945/email-templates-resources)
 - [SSL note / Control Panel KB](https://controlpanel.tech/kb/answer/2391)
 - [Zapier: Tweet new Sendy campaigns](https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget)
+
+
+## Careers & jobs
+
+Where newsletter and email roles often show up:
+
+- [Wellfound (AngelList)](https://wellfound.com/) — startup jobs including content/newsletter roles
+- [Remote OK](https://remoteok.com/) — remote listings (filter for content / email)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) — search “newsletter” / “email marketing”
 
 ## Arthur Tkachenko articles
 
