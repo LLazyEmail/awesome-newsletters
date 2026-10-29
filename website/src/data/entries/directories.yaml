@@ -1,0 +1,25 @@
+# Structured source for newsletter directories (AEM-style data layer).
+# Generator PRs can emit README/docs bullets from this file later.
+version: "1.0.0"
+section: directories
+entries:
+  - name: "InboxReads"
+    url: "https://inboxreads.co/"
+    description: "Newsletter directory and discovery"
+    tags: [directory]
+  - name: "Letterlist"
+    url: "https://letterlist.com/"
+    description: "Curated newsletter lists"
+    tags: [directory]
+  - name: "Substack Discover"
+    url: "https://substack.com/discover"
+    description: "Substack discovery surface"
+    tags: [directory, platform]
+  - name: "Beehiiv Discover"
+    url: "https://www.beehiiv.com/discover"
+    description: "Beehiiv discovery surface"
+    tags: [directory, platform]
+  - name: "Latchkey"
+    url: "https://latchkeynewsletter.com/"
+    description: "Newsletter recommendations"
+    tags: [directory]
