@@ -121,14 +121,13 @@ From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize
 ## Templates & HTML email
 
 - [Campaign Monitor: Coding HTML emails](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/)
-- [Mailchimp: HTML email basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
+- [Can I email](https://www.caniemail.com/) — support tables for HTML/CSS features in email clients
 - [HTML email boilerplate gist](https://gist.github.com/unruthless/11383824)
 - [Litmus community: accessible newsletter email](https://litmus.com/community/templates/32-accessible-newsletter-email) — ⚠️ 404 when checked 2026-10-29
-- [The Grind News (layout reference)](https://thegrind.news/)
-
-- [Can I email](https://www.caniemail.com/) — support tables for HTML/CSS features in email clients
-- [MJML](https://mjml.io/) — responsive email framework that compiles to client-friendly HTML
+- [Mailchimp: HTML email basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
 - [Maizzle documentation](https://maizzle.com/docs/) — Tailwind-based email framework docs
+- [MJML](https://mjml.io/) — responsive email framework that compiles to client-friendly HTML
+- [The Grind News (layout reference)](https://thegrind.news/)
 
 ## GitHub repositories
 
