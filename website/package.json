@@ -14,7 +14,7 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
     "generate:docs-from-readme": "node ./scripts/generate-docs-from-readme.mjs",
-    "prebuild": "npm run generate:docs-from-readme",
+    "prebuild": "node ./scripts/generate-metrics.mjs || true",
     "prestart": "npm run generate:docs-from-readme",
     "changelog": "node ./scripts/generate-changelog.mjs",
     "generate:changelog": "node ./scripts/generate-changelog.mjs"
