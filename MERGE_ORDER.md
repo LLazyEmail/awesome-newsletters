@@ -108,7 +108,7 @@ Before or while working the list above:
 
 ## This checklist PR
 
-- [ ] **This PR** (`MERGE_ORDER.md`) — **merge or close after use** tomorrow; it is a working note, not a product change. List it last so it does not block the real merges.
+- [ ] [#123 docs: add MERGE_ORDER.md merge checklist for open PRs](https://github.com/LLazyEmail/awesome-newsletters/pull/123) — **merge or close after use**; working note only, list last so it does not block real merges
 
 ---
 
@@ -118,4 +118,4 @@ Before or while working the list above:
 | --- | --- |
 | Ready path (sections 1–7) | 22 |
 | Blocked adoption (#110–#120) | 11 |
-| This checklist PR | 1 (after open) |
+| This checklist PR (#123) | 1 |
