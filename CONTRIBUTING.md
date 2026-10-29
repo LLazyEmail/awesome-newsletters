@@ -24,6 +24,8 @@ Open an issue or PR. Prefer annotating a dead URL (⚠️ note) over silent dele
 
 Be respectful. This is a community curation project under [LLazyEmail](https://github.com/LLazyEmail).
 
+See also [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) (Contributor Covenant) and [`SECURITY.md`](./SECURITY.md) for private reporting.
+
 ## License
 
 By contributing, you agree your contributions are licensed under the MIT License.
