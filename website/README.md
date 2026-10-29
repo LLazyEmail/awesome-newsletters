@@ -1,13 +1,30 @@
 # Awesome Newsletters website
 
-Docusaurus 3 site for [LLazyEmail/awesome-newsletters](https://github.com/LLazyEmail/awesome-newsletters).
+Docusaurus site for [LLazyEmail/awesome-newsletters](https://github.com/LLazyEmail/awesome-newsletters).
 
-Mirrors the stack used by [awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing) (leaner plugin set for the first scaffold).
+## Scripts
 
-```bash
-npm ci
-npm start
-npm run build
-```
+| npm script | Purpose |
+| --- | --- |
+| `start` | Local dev server |
+| `build` | Production build |
+| `generate:catalog` | Parse README/docs → `src/data/catalog.json` + `static/api/v1/catalog.json` |
+| `generate:notable-newsletters` | Parse notable profiles → `static/api/v1/notable-newsletters.json` |
+| `generate:metrics` | Link counts → `static/api/v1/metrics.json` |
 
-Published URL (after GitHub Pages is enabled): https://llazyemail.github.io/awesome-newsletters/
+## Public JSON API
+
+Served from `static/api/v1/` after build/deploy:
+
+- `/api/v1/catalog.json` — tagged catalog of curated links
+- `/api/v1/notable-newsletters.json` — notable newsletter profiles
+- `/api/v1/glossary.json` — glossary terms
+- `/api/v1/metrics.json` — link/doc counts
+
+Pattern mirrors [awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing) industry-leaders + catalog APIs.
+
+## Docs layout
+
+- Top-level docs mirror README sections
+- `docs/guides/` — practical publisher guides
+- `docs/notable-newsletters/` — per-newsletter study pages
