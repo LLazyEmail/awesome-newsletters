@@ -14,11 +14,14 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
     "generate:docs-from-readme": "node ./scripts/generate-docs-from-readme.mjs",
-    "prebuild": "npm run generate:docs-from-readme",
+    "prebuild": "npm run generate:docs-from-readme && npm run generate:metrics",
     "prestart": "npm run generate:docs-from-readme",
     "changelog": "node ./scripts/generate-changelog.mjs",
     "generate:changelog": "node ./scripts/generate-changelog.mjs",
-    "generate:docs-index": "node ./scripts/generate-docs-index.mjs"
+    "generate:docs-index": "node ./scripts/generate-docs-index.mjs",
+    "generate:catalog": "node ./scripts/generate-catalog.mjs",
+    "generate:notable-newsletters": "node ./scripts/generate-notable-newsletters.mjs",
+    "generate:metrics": "node ./scripts/generate-metrics.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",
