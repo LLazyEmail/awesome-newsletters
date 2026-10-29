@@ -25,6 +25,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Newsletters to study](#newsletters-to-study)
+- [Newsletter platforms](#newsletter-platforms)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -211,6 +212,16 @@ Well-known publications worth reading as craft references (not an endorsement of
 - [The Hustle](https://thehustle.co/) — business/tech stories with a strong free-to-paid funnel history
 - [The Lookout](https://blog.pragmaticengineer.com/) — engineering leadership writing (Pragmatic Engineer)
 - [TLDR](https://tldr.tech/) — curated tech news digests with clear niche editions
+
+## Newsletter platforms
+
+Tools commonly used to write, host, and send independent newsletters. For broader ESP coverage see [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing).
+
+- [beehiiv](https://www.beehiiv.com/) — newsletter platform focused on growth, referrals, and monetization
+- [Buttondown](https://buttondown.email/) — simple, writer-friendly hosted newsletters with a plain-text ethos
+- [ConvertKit (Kit)](https://convertkit.com/) — creator marketing hub with sequences and commerce
+- [Ghost](https://ghost.org/) — open-source publishing platform with memberships and newsletters
+- [Substack](https://substack.com/) — popular subscription newsletter network and editor
 
 ## Contributing
 
