@@ -183,7 +183,7 @@ Plugins and libraries noted for newsletter/markdown pipelines:
 
 ## Course / lesson scratch notes
 
-Early lesson/course planning notes are preserved under `notes/` (see follow-up PR that relocates the original scratch files). Topics sketched there include exploring 10 newsletters, slide-per-lesson recording tips, and list-building playbooks.
+Early lesson/course planning notes are preserved under [`notes/`](./notes/README.md). Topics sketched there include exploring 10 newsletters, slide-per-lesson recording tips, and list-building playbooks. Original filenames were lightly normalized; content was not deleted.
 
 ## Contributing
 
