@@ -5,6 +5,7 @@ const sidebars: SidebarsConfig = {
     'intro',
     'glossary',
     'pages-index',
+    'contributing',
     'directories',
     'articles',
     'growth',
