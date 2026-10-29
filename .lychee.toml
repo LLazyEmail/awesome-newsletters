@@ -1,0 +1,9 @@
+# Lychee config for awesome-newsletters
+timeout = 20
+max_concurrency = 8
+accept = [200, 204, 206, 403, 429]
+
+exclude = [
+  '^https://twitter\.com/',
+  '^https://x\.com/',
+]
