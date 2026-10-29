@@ -22,7 +22,7 @@ A curated collection of newsletter directories, articles, tools, templates, and 
   - [React / component tooling](#react--component-tooling)
   - [Markdown / Remark tooling](#markdown--remark-tooling)
 - [Ops, deliverability & Sendy notes](#ops-deliverability--sendy-notes)
-- [Community & forums](#community-forums)
+- [Community & forums](#community--forums)
 - [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Course / lesson scratch notes](#course--lesson-scratch-notes)
 - [Contributing](#contributing)
