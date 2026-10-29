@@ -14,57 +14,11 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: docs-index
-  cancel-in-progress: false
-
 jobs:
   docs-index:
-    name: Regenerate docs pages index
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: website
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          cache: npm
-          cache-dependency-path: website/package-lock.json
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Generate docs pages index
-        run: npm run generate:docs-index
-
-      - name: Commit and push index
-        working-directory: .
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add website/docs/pages-index.md
-          if git diff --staged --quiet; then
-            echo "Docs pages index already up to date."
-            exit 0
-          fi
-          git commit -m "chore(docs-index): regenerate all-pages markdown list"
-          # Concurrent main pushes (changelog + catalog + docs-index + notable)
-          # race; rebase and retry instead of failing the job.
-          for attempt in 1 2 3 4 5; do
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-            echo "push rejected (attempt $attempt); rebasing onto origin/main"
-            git pull --rebase origin main
-            sleep $((attempt * 2))
-          done
-          echo "push failed after retries" >&2
-          exit 1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-index.yml@main
+    with:
+      working-directory: website
+      cache-dependency-path: website/package-lock.json
+      commit-paths: website/docs/pages-index.md
+    secrets: inherit
