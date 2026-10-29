@@ -7,3 +7,6 @@ exclude = [
   '^https://twitter\.com/',
   '^https://x\.com/',
 ]
+
+# Working merge checklist — not part of the curated link corpus
+exclude_path = ['MERGE_ORDER.md']
