@@ -74,6 +74,7 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/LLazyEmail/awesome-newsletters',
           label: 'GitHub',
