@@ -44,14 +44,14 @@ Curated “best of” lists and directories of newsletters to subscribe to or st
 ## Great articles to read
 
 - [Automating newsletters generation from RSS feeds using Platypush](https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln) (HackerNoon)
-- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising) (Wikipedia)
+- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising) (Wikipedia) — background on DTC advertising models
 - [E-mail versus print](https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/) (University of Washington)
 - [Email newsletter statistics](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (Upland PostUp)
 - [Everything old is new again: the state of newsletters](https://localnewslab.org/guide/newsletters/everything-old-is-new-again-the-state-of-newsletters/) (Local News Lab)
 - [Mailcharts: Canva email marketing](https://www.mailcharts.com/companies/canva-email-marketing)
 - [Million Dollar Email Templates 2.0](https://www.producthunt.com/posts/million-dollar-email-templates-2-0) (Product Hunt)
-- [Really Good Emails](https://reallygoodemails.com/)
-- [Really Good Emails CodePen example](https://codepen.io/reallygoodemails/pen/zYYPWVR)
+- [Really Good Emails](https://reallygoodemails.com/) — gallery of real email designs and campaigns
+- [Really Good Emails CodePen example](https://codepen.io/reallygoodemails/pen/zYYPWVR) — sample HTML email layout on CodePen
 - [The best free email template builders and editors](https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123) (HackerNoon)
 - [What is a Newsletter? The Ultimate Guide](https://www.brafton.com/what-is-a-newsletter/) (Brafton)
 - [What is Email Newsletter? - Definition and Tips](https://sendpulse.com/support/glossary/email-newsletter) (SendPulse)
