@@ -13,3 +13,29 @@
 html {
   -webkit-font-smoothing: antialiased;
 }
+
+/* Homepage polish (Awesome Newsletters) */
+.hero--primary {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary-darkest) 0%,
+    var(--ifm-color-primary) 55%,
+    var(--ifm-color-primary-light) 100%
+  );
+}
+
+.hero__title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.hero__subtitle {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.95;
+}
+
+.footer__title {
+  letter-spacing: 0.02em;
+}
