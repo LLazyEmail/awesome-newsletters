@@ -15,7 +15,9 @@
     "typecheck": "tsc",
     "generate:docs-from-readme": "node ./scripts/generate-docs-from-readme.mjs",
     "prebuild": "npm run generate:docs-from-readme",
-    "prestart": "npm run generate:docs-from-readme"
+    "prestart": "npm run generate:docs-from-readme",
+    "changelog": "node ./scripts/generate-changelog.mjs",
+    "generate:changelog": "node ./scripts/generate-changelog.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",
