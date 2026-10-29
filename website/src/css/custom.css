@@ -1,0 +1,15 @@
+:root {
+  --ifm-color-primary: #2e6bb2;
+  --ifm-color-primary-dark: #2960a0;
+  --ifm-color-primary-darker: #275b97;
+  --ifm-color-primary-darkest: #204b7c;
+  --ifm-color-primary-light: #3a78bf;
+  --ifm-color-primary-lighter: #447fc3;
+  --ifm-color-primary-lightest: #5f93cd;
+  --ifm-font-family-base: "IBM Plex Sans", system-ui, sans-serif;
+  --ifm-font-family-monospace: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}

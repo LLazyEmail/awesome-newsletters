@@ -1,0 +1,122 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+const config: Config = {
+  title: 'Awesome Newsletters',
+  tagline:
+    'A curated collection of newsletter directories, articles, tools, and resources.',
+  favicon: 'img/favicon.ico',
+
+  future: {
+    v4: true,
+  },
+
+  url: 'https://llazyemail.github.io',
+  baseUrl: '/awesome-newsletters/',
+  trailingSlash: false,
+
+  organizationName: 'LLazyEmail',
+  projectName: 'awesome-newsletters',
+
+  onBrokenLinks: 'throw',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap',
+      type: 'text/css',
+    },
+  ],
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebars.ts',
+          routeBasePath: 'docs',
+          editUrl:
+            'https://github.com/LLazyEmail/awesome-newsletters/tree/main/website/',
+        },
+        blog: {
+          showReadingTime: true,
+          feedOptions: {type: ['rss', 'atom'], xslt: true},
+          editUrl:
+            'https://github.com/LLazyEmail/awesome-newsletters/tree/main/website/',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
+    navbar: {
+      title: 'Awesome Newsletters',
+      logo: {
+        alt: 'Awesome Newsletters Logo',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'docsSidebar',
+          position: 'left',
+          label: 'Resources',
+        },
+        {
+          href: 'https://github.com/LLazyEmail/awesome-newsletters',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+          label: 'Email Marketing list',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Docs',
+          items: [
+            {label: 'Overview', to: '/docs/'},
+            {label: 'Directories', to: '/docs/directories'},
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'GitHub',
+              href: 'https://github.com/LLazyEmail/awesome-newsletters',
+            },
+            {
+              label: 'Awesome Email Marketing',
+              href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} LLazyEmail. Built with Docusaurus.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
+};
+
+export default config;

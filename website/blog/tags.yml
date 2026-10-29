@@ -1,0 +1,8 @@
+newsletters:
+  label: Newsletters
+  permalink: /newsletters
+  description: Newsletter curation
+awesome-list:
+  label: Awesome list
+  permalink: /awesome-list
+  description: Awesome list updates
