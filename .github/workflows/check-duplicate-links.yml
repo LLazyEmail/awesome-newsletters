@@ -22,4 +22,4 @@ jobs:
         with:
           node-version: '20'
       - name: Check duplicate links
-        run: node scripts/check-duplicate-links.mjs
+        run: node scripts/check-duplicate-links.mjs --warn

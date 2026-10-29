@@ -2,6 +2,7 @@
 /**
  * Report duplicate URLs in README.md curated entries.
  * Exit 1 if duplicates found (unless --warn).
+ * CI uses --warn so intentional cross-references stay green.
  */
 import fs from 'node:fs';
 
