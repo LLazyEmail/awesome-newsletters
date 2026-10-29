@@ -1,5 +1,10 @@
 # ✉ Awesome Newsletters
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
+
 A curated collection of newsletter directories, articles, tools, templates, and related resources for building and growing email newsletters.
 
 > Sister list: [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing) · Related list: [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) (developer newsletter directories)
@@ -191,7 +196,7 @@ Entries marked ⚠️ failed an automated HEAD/GET check on 2026-10-29 (404/5xx 
 
 ## Contributing
 
-Contributions welcome. Prefer small, focused PRs that keep existing entries and only restructure, fix, or annotate gently. A full `CONTRIBUTING.md` will land in a follow-up PR.
+Contributions welcome — see [`CONTRIBUTING.md`](./CONTRIBUTING.md). Prefer small, focused PRs that keep existing entries and only restructure, fix, or annotate gently.
 
 ## License
 
