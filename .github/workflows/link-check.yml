@@ -1,0 +1,34 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'notes/**'
+      - '.github/workflows/link-check.yml'
+  schedule:
+    - cron: '0 9 * * 1'  # Mondays 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    name: lychee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link check
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Soft failures (403/429) are common for bot checks; fail on 404/DNS.
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 8
+            --accept 200,204,206,403,429
+            --timeout 20
+            README.md notes/**
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
