@@ -1,0 +1,2285 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-29T20:11:44.552Z",
+  "name": "Awesome Newsletters catalog",
+  "homepage": "https://llazyemail.github.io/awesome-newsletters/",
+  "repository": "https://github.com/LLazyEmail/awesome-newsletters",
+  "tags": [
+    "article",
+    "deliverability",
+    "directory",
+    "github",
+    "growth",
+    "list-building",
+    "monetization",
+    "ops",
+    "platform",
+    "readme",
+    "templates"
+  ],
+  "items": [
+    {
+      "id": "einvestigator-list-of-the-best-email-newsletters",
+      "name": "eInvestigator: List of the best email newsletters",
+      "url": "https://www.einvestigator.com/list-of-the-best-email-newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "directory",
+        "readme"
+      ]
+    },
+    {
+      "id": "inc-best-newsletters-2020",
+      "name": "Inc: Best Newsletters 2020",
+      "url": "https://www.inc.com/jessica-stillman/best-newsletters-2020.html",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "directory",
+        "readme"
+      ]
+    },
+    {
+      "id": "insidehook-best-single-operator-email-newsletters",
+      "name": "InsideHook: Best single-operator email newsletters",
+      "url": "https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "letterlist",
+      "name": "Letterlist",
+      "url": "https://letterlist.com/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "local-news-lab-email-newsletters-reading-list",
+      "name": "Local News Lab: Email newsletters reading list",
+      "url": "https://localnewslab.org/guide/newsletters/appendix-one-email-newsletters-reading-list/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "luminary-labs-200-newsletters-crowdsourced",
+      "name": "Luminary Labs: 200 newsletters (crowdsourced)",
+      "url": "https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "supply-chain-digital-top-10-supply-chain-newsletters",
+      "name": "Supply Chain Digital: Top 10 supply chain newsletters",
+      "url": "https://supplychaindigital.com/top10/top-10-supply-chain-newsletters",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "the-coolist-best-newsletters",
+      "name": "The Coolist: Best newsletters",
+      "url": "https://www.thecoolist.com/best-newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "directory",
+        "readme"
+      ]
+    },
+    {
+      "id": "zudochkin-awesome-newsletters",
+      "name": "zudochkin/awesome-newsletters",
+      "url": "https://github.com/zudochkin/awesome-newsletters",
+      "description": "categorized developer & tech newsletters (**related awesome list**, not a duplicate of this repo’s focus on newsletter craft/resources)",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "automating-newsletters-generation-from-rss-feeds-using-platypush",
+      "name": "Automating newsletters generation from RSS feeds using Platypush",
+      "url": "https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "direct-to-consumer-advertising",
+      "name": "Direct-to-consumer advertising",
+      "url": "https://en.wikipedia.org/wiki/Direct-to-consumer_advertising",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "e-mail-versus-print",
+      "name": "E-mail versus print",
+      "url": "https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "email-newsletter-statistics",
+      "name": "Email newsletter statistics",
+      "url": "https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "everything-old-is-new-again-the-state-of-newsletters",
+      "name": "Everything old is new again: the state of newsletters",
+      "url": "https://localnewslab.org/guide/newsletters/everything-old-is-new-again-the-state-of-newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "mailcharts-canva-email-marketing",
+      "name": "Mailcharts: Canva email marketing",
+      "url": "https://www.mailcharts.com/companies/canva-email-marketing",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "million-dollar-email-templates-2-0",
+      "name": "Million Dollar Email Templates 2.0",
+      "url": "https://www.producthunt.com/posts/million-dollar-email-templates-2-0",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "really-good-emails",
+      "name": "Really Good Emails",
+      "url": "https://reallygoodemails.com/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "really-good-emails-codepen-example",
+      "name": "Really Good Emails CodePen example",
+      "url": "https://codepen.io/reallygoodemails/pen/zYYPWVR",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "the-best-free-email-template-builders-and-editors",
+      "name": "The best free email template builders and editors",
+      "url": "https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "what-is-a-newsletter-the-ultimate-guide",
+      "name": "What is a Newsletter? The Ultimate Guide",
+      "url": "https://www.brafton.com/what-is-a-newsletter/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "what-is-email-newsletter-definition-and-tips",
+      "name": "What is Email Newsletter? - Definition and Tips",
+      "url": "https://sendpulse.com/support/glossary/email-newsletter",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "what-is-the-purpose-of-a-newsletter-newsletter-examples",
+      "name": "What Is the Purpose of a Newsletter? + Newsletter Examples",
+      "url": "https://www.campaignmonitor.com/resources/knowledge-base/what-is-the-purpose-of-a-newsletter-why-is-it-important/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "why-email-newsletters",
+      "name": "Why email newsletters?",
+      "url": "https://localnewslab.org/guide/newsletters/why-email-newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "why-is-everyone-talking-about-newsletters",
+      "name": "Why Is Everyone Talking About Newsletters?",
+      "url": "https://the1a.org/segments/substack-newsletter-blog/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data",
+      "name": "63% of marketers to use email newsletters to enhance first-party data",
+      "url": "https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "94-of-marketers-cite-email-as-integral-demand-gen-report",
+      "name": "94% of marketers cite email as integral (Demand Gen Report)",
+      "url": "https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "best-time-to-send-email",
+      "name": "Best time to send email",
+      "url": "https://coschedule.com/blog/best-time-to-send-email",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "creating-demand-with-email-newsletters",
+      "name": "Creating Demand With Email Newsletters",
+      "url": "https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "demand-curve-newsletter",
+      "name": "Demand Curve newsletter",
+      "url": "https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers",
+      "name": "Demand Curve: Email marketing tactics that convert subscribers into customers",
+      "url": "https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "demand-curve-tested-tactics-for-growing-newsletters",
+      "name": "Demand Curve: Tested tactics for growing newsletters",
+      "url": "https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "email-newsletters-start-improve-reap",
+      "name": "Email newsletters: start, improve, reap",
+      "url": "https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "everything-you-need-to-know-about-email-newsletter-monetization",
+      "name": "Everything you need to know about email newsletter monetization",
+      "url": "https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "monetization",
+        "readme"
+      ]
+    },
+    {
+      "id": "feedotter-customers",
+      "name": "FeedOtter customers",
+      "url": "https://www.feedotter.com/customers/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy",
+      "name": "Five reasons the newsletter should be part of your marketing strategy",
+      "url": "https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "how-to-send-newsletters-on-demand",
+      "name": "How to send newsletters on demand",
+      "url": "https://blog.feedly.com/how-to-send-newsletters-on-demand/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "images-vs-no-images-in-marketing-emails-newsletters",
+      "name": "Images vs. no images in marketing emails / newsletters",
+      "url": "https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "impartner-news-on-demand",
+      "name": "Impartner: News on demand",
+      "url": "https://www.impartner.com/news-on-demand/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "it-on-demand-free-newsletters",
+      "name": "IT On Demand free newsletters",
+      "url": "https://www.it-on-demand.com/free-stuff/newsletters/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "litmus-5-email-marketing-trends-2020",
+      "name": "Litmus: 5 email marketing trends 2020",
+      "url": "https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "on-demand-newsletters",
+      "name": "On-demand newsletters",
+      "url": "http://www.tlehs.com/on-demand-newsletters",
+      "description": "⚠️ returned HTTP 500 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "partner-demand-newsletters",
+      "name": "Partner Demand newsletters",
+      "url": "https://www.partnerdemand.com/hpi/newsletters",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "what-are-the-benefits-of-email-newsletters",
+      "name": "What are the benefits of email newsletters",
+      "url": "https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "email-list-building-ideas",
+      "name": "Email list building ideas",
+      "url": "https://www.getresponse.com/blog/email-list-building-ideas",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "campaign-monitor-coding-html-emails",
+      "name": "Campaign Monitor: Coding HTML emails",
+      "url": "https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "mailchimp-html-email-basics",
+      "name": "Mailchimp: HTML email basics",
+      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "html-email-boilerplate-gist",
+      "name": "HTML email boilerplate gist",
+      "url": "https://gist.github.com/unruthless/11383824",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "litmus-community-accessible-newsletter-email",
+      "name": "Litmus community: accessible newsletter email",
+      "url": "https://litmus.com/community/templates/32-accessible-newsletter-email",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "the-grind-news-layout-reference",
+      "name": "The Grind News (layout reference)",
+      "url": "https://thegrind.news/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "11ty-email-generator",
+      "name": "11ty-email-generator",
+      "url": "https://github.com/5t3ph/11ty-email-generator/blob/main/src/_data/meta.js",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "bojler",
+      "name": "bojler",
+      "url": "https://github.com/Slicejack/bojler",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "grapesjs-mjml",
+      "name": "grapesjs-mjml",
+      "url": "https://github.com/artf/grapesjs-mjml",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "maizzle",
+      "name": "maizzle",
+      "url": "https://github.com/maizzle/maizzle",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "pechkin",
+      "name": "pechkin",
+      "url": "https://github.com/sglazov/pechkin",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "react-confirm-email",
+      "name": "react-confirm-email",
+      "url": "https://github.com/funador/react-confirm-email",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "react-emails-lang-ai",
+      "name": "react-emails (lang-ai)",
+      "url": "https://github.com/lang-ai/react-emails",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "react-multi-email",
+      "name": "react-multi-email",
+      "url": "https://github.com/jsdevkr/react-multi-email",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "marked",
+      "name": "marked",
+      "url": "https://github.com/markedjs/marked",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "mdx",
+      "name": "mdx",
+      "url": "https://github.com/mdx-js/mdx",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-breaks",
+      "name": "remark-breaks",
+      "url": "https://github.com/remarkjs/remark-breaks",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-capitalize",
+      "name": "remark-capitalize",
+      "url": "https://github.com/vercel/remark-capitalize",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-first-heading",
+      "name": "remark-first-heading",
+      "url": "https://github.com/laat/remark-first-heading",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-hint",
+      "name": "remark-hint",
+      "url": "https://github.com/sergioramos/remark-hint",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-html",
+      "name": "remark-html",
+      "url": "https://github.com/remarkjs/remark-html",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-images",
+      "name": "remark-images",
+      "url": "https://github.com/remarkjs/remark-images",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-inline-links",
+      "name": "remark-inline-links",
+      "url": "https://github.com/remarkjs/remark-inline-links",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-lint",
+      "name": "remark-lint",
+      "url": "https://github.com/remarkjs/remark-lint",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-macro",
+      "name": "remark-macro",
+      "url": "https://github.com/dimerapp/remark-macro",
+      "description": "⚠️ repo 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-normalize-headings",
+      "name": "remark-normalize-headings",
+      "url": "https://github.com/remarkjs/remark-normalize-headings",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "remark-rehype",
+      "name": "remark-rehype",
+      "url": "https://github.com/remarkjs/remark-rehype",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "atherdon-newsletters",
+      "name": "atherdon/newsletters",
+      "url": "https://github.com/atherdon/newsletters",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "burner-email-providers-list",
+      "name": "Burner email providers list",
+      "url": "https://github.com/wesbos/burner-email-providers",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "docker-sendy",
+      "name": "docker-sendy",
+      "url": "https://github.com/emmanuelvisage/docker-sendy",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "github",
+        "readme"
+      ]
+    },
+    {
+      "id": "google-apps-checkmx",
+      "name": "Google Apps CheckMX",
+      "url": "https://toolbox.googleapps.com/apps/checkmx/check?domain=noonifications.tech&dkim_selector=",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "deliverability",
+        "readme"
+      ]
+    },
+    {
+      "id": "postmark-spamcheck",
+      "name": "Postmark Spamcheck",
+      "url": "https://spamcheck.postmarkapp.com/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "deliverability",
+        "readme"
+      ]
+    },
+    {
+      "id": "sendy-api",
+      "name": "Sendy API",
+      "url": "https://sendy.co/api",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "sendy-forum-custom-redirect-after-signup",
+      "name": "Sendy forum: custom redirect after signup",
+      "url": "https://sendy.co/forum/discussion/15114/custom-redirect-after-signup-form-submission",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "sendy-forum-email-templates-resources",
+      "name": "Sendy forum: email templates resources",
+      "url": "https://sendy.co/forum/discussion/945/email-templates-resources",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "ssl-note-control-panel-kb",
+      "name": "SSL note / Control Panel KB",
+      "url": "https://controlpanel.tech/kb/answer/2391",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "zapier-tweet-new-sendy-campaigns",
+      "name": "Zapier: Tweet new Sendy campaigns",
+      "url": "https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
+      "name": "5 reasons why newsletters should be part of your business strategy",
+      "url": "https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "building-a-design-system-for-email-templates-react",
+      "name": "Building a design system for email templates (React)",
+      "url": "https://hackernoon.com/building-a-design-system-for-email-templates-react",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "cool-newsletters-for-developers-part-1",
+      "name": "Cool newsletters for developers (part 1)",
+      "url": "https://hackernoon.com/cool-newsletters-for-developers-part-1",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "cool-resources-for-sending-emails",
+      "name": "Cool resources for sending emails",
+      "url": "https://hackernoon.com/cool-resources-for-sending-emails",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "email-marketing-and-how-to-curate-an-effective-business-newsletter",
+      "name": "Email marketing and how to curate an effective business newsletter",
+      "url": "https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "exploring-substack-for-building-your-newsletter",
+      "name": "Exploring Substack for building your newsletter",
+      "url": "https://hackernoon.com/exploring-substack-for-building-your-newsletter",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "glossary-for-non-technies",
+      "name": "Glossary for non-technies",
+      "url": "https://hackernoon.com/glossary-for-non-technies",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "how-i-started-to-build-react-components-for-email-templates",
+      "name": "How I started to build React components for email templates",
+      "url": "https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "introducing-a-simple-npm-module-with-email-templates",
+      "name": "Introducing a simple npm module with email templates",
+      "url": "https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "organizing-an-advanced-structure-for-html-email-template",
+      "name": "Organizing an advanced structure for HTML email template",
+      "url": "https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "together4victory-list-of-email-marketing-tools",
+      "name": "Together4Victory: list of email marketing tools",
+      "url": "https://hackernoon.com/together4victory-list-of-email-marketing-tools",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "directory",
+        "readme"
+      ]
+    },
+    {
+      "id": "einvestigator-list-of-the-best-email-newsletters",
+      "name": "eInvestigator: List of the best email newsletters",
+      "url": "https://www.einvestigator.com/list-of-the-best-email-newsletters/",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "inc-best-newsletters-2020",
+      "name": "Inc: Best Newsletters 2020",
+      "url": "https://www.inc.com/jessica-stillman/best-newsletters-2020.html",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "insidehook-best-single-operator-email-newsletters",
+      "name": "InsideHook: Best single-operator email newsletters",
+      "url": "https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "letterlist",
+      "name": "Letterlist",
+      "url": "https://letterlist.com/",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "local-news-lab-email-newsletters-reading-list",
+      "name": "Local News Lab: Email newsletters reading list",
+      "url": "https://localnewslab.org/guide/newsletters/appendix-one-email-newsletters-reading-list/",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "luminary-labs-200-newsletters-crowdsourced",
+      "name": "Luminary Labs: 200 newsletters (crowdsourced)",
+      "url": "https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "supply-chain-digital-top-10-supply-chain-newsletters",
+      "name": "Supply Chain Digital: Top 10 supply chain newsletters",
+      "url": "https://supplychaindigital.com/top10/top-10-supply-chain-newsletters",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "the-coolist-best-newsletters",
+      "name": "The Coolist: Best newsletters",
+      "url": "https://www.thecoolist.com/best-newsletters/",
+      "description": "",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory"
+      ]
+    },
+    {
+      "id": "zudochkin-awesome-newsletters",
+      "name": "zudochkin/awesome-newsletters",
+      "url": "https://github.com/zudochkin/awesome-newsletters",
+      "description": "categorized developer & tech newsletters (**related awesome list**, not a duplicate of this repo’s focus on newsletter craft/resources)",
+      "section": "directories",
+      "sourcePage": "/docs/directories",
+      "sourceFile": "directories.md",
+      "tags": [
+        "directory",
+        "github"
+      ]
+    },
+    {
+      "id": "automating-newsletters-generation-from-rss-feeds-using-platypush",
+      "name": "Automating newsletters generation from RSS feeds using Platypush",
+      "url": "https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "direct-to-consumer-advertising",
+      "name": "Direct-to-consumer advertising",
+      "url": "https://en.wikipedia.org/wiki/Direct-to-consumer_advertising",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "e-mail-versus-print",
+      "name": "E-mail versus print",
+      "url": "https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "email-newsletter-statistics",
+      "name": "Email newsletter statistics",
+      "url": "https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "everything-old-is-new-again-the-state-of-newsletters",
+      "name": "Everything old is new again: the state of newsletters",
+      "url": "https://localnewslab.org/guide/newsletters/everything-old-is-new-again-the-state-of-newsletters/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "mailcharts-canva-email-marketing",
+      "name": "Mailcharts: Canva email marketing",
+      "url": "https://www.mailcharts.com/companies/canva-email-marketing",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "million-dollar-email-templates-2-0",
+      "name": "Million Dollar Email Templates 2.0",
+      "url": "https://www.producthunt.com/posts/million-dollar-email-templates-2-0",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "really-good-emails",
+      "name": "Really Good Emails",
+      "url": "https://reallygoodemails.com/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "really-good-emails-codepen-example",
+      "name": "Really Good Emails CodePen example",
+      "url": "https://codepen.io/reallygoodemails/pen/zYYPWVR",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "the-best-free-email-template-builders-and-editors",
+      "name": "The best free email template builders and editors",
+      "url": "https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "what-is-a-newsletter-the-ultimate-guide",
+      "name": "What is a Newsletter? The Ultimate Guide",
+      "url": "https://www.brafton.com/what-is-a-newsletter/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "what-is-email-newsletter-definition-and-tips",
+      "name": "What is Email Newsletter? - Definition and Tips",
+      "url": "https://sendpulse.com/support/glossary/email-newsletter",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "what-is-the-purpose-of-a-newsletter-newsletter-examples",
+      "name": "What Is the Purpose of a Newsletter? + Newsletter Examples",
+      "url": "https://www.campaignmonitor.com/resources/knowledge-base/what-is-the-purpose-of-a-newsletter-why-is-it-important/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "why-email-newsletters",
+      "name": "Why email newsletters?",
+      "url": "https://localnewslab.org/guide/newsletters/why-email-newsletters/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "why-is-everyone-talking-about-newsletters",
+      "name": "Why Is Everyone Talking About Newsletters?",
+      "url": "https://the1a.org/segments/substack-newsletter-blog/",
+      "description": "",
+      "section": "articles",
+      "sourcePage": "/docs/articles",
+      "sourceFile": "articles.md",
+      "tags": [
+        "article",
+        "platform"
+      ]
+    },
+    {
+      "id": "63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data",
+      "name": "63% of marketers to use email newsletters to enhance first-party data",
+      "url": "https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "94-of-marketers-cite-email-as-integral-demand-gen-report",
+      "name": "94% of marketers cite email as integral (Demand Gen Report)",
+      "url": "https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "best-time-to-send-email",
+      "name": "Best time to send email",
+      "url": "https://coschedule.com/blog/best-time-to-send-email",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "creating-demand-with-email-newsletters",
+      "name": "Creating Demand With Email Newsletters",
+      "url": "https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "demand-curve-newsletter",
+      "name": "Demand Curve newsletter",
+      "url": "https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers",
+      "name": "Demand Curve: Email marketing tactics that convert subscribers into customers",
+      "url": "https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "demand-curve-tested-tactics-for-growing-newsletters",
+      "name": "Demand Curve: Tested tactics for growing newsletters",
+      "url": "https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "email-newsletters-start-improve-reap",
+      "name": "Email newsletters: start, improve, reap",
+      "url": "https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "everything-you-need-to-know-about-email-newsletter-monetization",
+      "name": "Everything you need to know about email newsletter monetization",
+      "url": "https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth",
+        "monetization"
+      ]
+    },
+    {
+      "id": "feedotter-customers",
+      "name": "FeedOtter customers",
+      "url": "https://www.feedotter.com/customers/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy",
+      "name": "Five reasons the newsletter should be part of your marketing strategy",
+      "url": "https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "how-to-send-newsletters-on-demand",
+      "name": "How to send newsletters on demand",
+      "url": "https://blog.feedly.com/how-to-send-newsletters-on-demand/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "images-vs-no-images-in-marketing-emails-newsletters",
+      "name": "Images vs. no images in marketing emails / newsletters",
+      "url": "https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "impartner-news-on-demand",
+      "name": "Impartner: News on demand",
+      "url": "https://www.impartner.com/news-on-demand/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "it-on-demand-free-newsletters",
+      "name": "IT On Demand free newsletters",
+      "url": "https://www.it-on-demand.com/free-stuff/newsletters/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "litmus-5-email-marketing-trends-2020",
+      "name": "Litmus: 5 email marketing trends 2020",
+      "url": "https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "on-demand-newsletters",
+      "name": "On-demand newsletters",
+      "url": "http://www.tlehs.com/on-demand-newsletters",
+      "description": "⚠️ returned HTTP 500 when checked 2026-10-29",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "partner-demand-newsletters",
+      "name": "Partner Demand newsletters",
+      "url": "https://www.partnerdemand.com/hpi/newsletters",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "what-are-the-benefits-of-email-newsletters",
+      "name": "What are the benefits of email newsletters",
+      "url": "https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters",
+      "description": "",
+      "section": "growth",
+      "sourcePage": "/docs/growth",
+      "sourceFile": "growth.md",
+      "tags": [
+        "growth"
+      ]
+    },
+    {
+      "id": "email-list-building-ideas",
+      "name": "Email list building ideas",
+      "url": "https://www.getresponse.com/blog/email-list-building-ideas",
+      "description": "",
+      "section": "list-building",
+      "sourcePage": "/docs/list-building",
+      "sourceFile": "list-building.md",
+      "tags": [
+        "list-building"
+      ]
+    },
+    {
+      "id": "campaign-monitor-coding-html-emails",
+      "name": "Campaign Monitor: Coding HTML emails",
+      "url": "https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/",
+      "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "mailchimp-html-email-basics",
+      "name": "Mailchimp: HTML email basics",
+      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
+      "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "html-email-boilerplate-gist",
+      "name": "HTML email boilerplate gist",
+      "url": "https://gist.github.com/unruthless/11383824",
+      "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "litmus-community-accessible-newsletter-email",
+      "name": "Litmus community: accessible newsletter email",
+      "url": "https://litmus.com/community/templates/32-accessible-newsletter-email",
+      "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "the-grind-news-layout-reference",
+      "name": "The Grind News (layout reference)",
+      "url": "https://thegrind.news/",
+      "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "11ty-email-generator",
+      "name": "11ty-email-generator",
+      "url": "https://github.com/5t3ph/11ty-email-generator/blob/main/src/_data/meta.js",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "bojler",
+      "name": "bojler",
+      "url": "https://github.com/Slicejack/bojler",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "grapesjs-mjml",
+      "name": "grapesjs-mjml",
+      "url": "https://github.com/artf/grapesjs-mjml",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "maizzle",
+      "name": "maizzle",
+      "url": "https://github.com/maizzle/maizzle",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "pechkin",
+      "name": "pechkin",
+      "url": "https://github.com/sglazov/pechkin",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "react-confirm-email",
+      "name": "react-confirm-email",
+      "url": "https://github.com/funador/react-confirm-email",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "react-emails-lang-ai",
+      "name": "react-emails (lang-ai)",
+      "url": "https://github.com/lang-ai/react-emails",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "react-multi-email",
+      "name": "react-multi-email",
+      "url": "https://github.com/jsdevkr/react-multi-email",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "marked",
+      "name": "marked",
+      "url": "https://github.com/markedjs/marked",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "mdx",
+      "name": "mdx",
+      "url": "https://github.com/mdx-js/mdx",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-breaks",
+      "name": "remark-breaks",
+      "url": "https://github.com/remarkjs/remark-breaks",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-capitalize",
+      "name": "remark-capitalize",
+      "url": "https://github.com/vercel/remark-capitalize",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-first-heading",
+      "name": "remark-first-heading",
+      "url": "https://github.com/laat/remark-first-heading",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-hint",
+      "name": "remark-hint",
+      "url": "https://github.com/sergioramos/remark-hint",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-html",
+      "name": "remark-html",
+      "url": "https://github.com/remarkjs/remark-html",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-images",
+      "name": "remark-images",
+      "url": "https://github.com/remarkjs/remark-images",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-inline-links",
+      "name": "remark-inline-links",
+      "url": "https://github.com/remarkjs/remark-inline-links",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-lint",
+      "name": "remark-lint",
+      "url": "https://github.com/remarkjs/remark-lint",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-macro",
+      "name": "remark-macro",
+      "url": "https://github.com/dimerapp/remark-macro",
+      "description": "⚠️ repo 404 when checked 2026-10-29",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-normalize-headings",
+      "name": "remark-normalize-headings",
+      "url": "https://github.com/remarkjs/remark-normalize-headings",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "remark-rehype",
+      "name": "remark-rehype",
+      "url": "https://github.com/remarkjs/remark-rehype",
+      "description": "",
+      "section": "github",
+      "sourcePage": "/docs/github-repos",
+      "sourceFile": "github-repos.md",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "id": "atherdon-newsletters",
+      "name": "atherdon/newsletters",
+      "url": "https://github.com/atherdon/newsletters",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "github",
+        "ops"
+      ]
+    },
+    {
+      "id": "burner-email-providers-list",
+      "name": "Burner email providers list",
+      "url": "https://github.com/wesbos/burner-email-providers",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "github",
+        "ops"
+      ]
+    },
+    {
+      "id": "docker-sendy",
+      "name": "docker-sendy",
+      "url": "https://github.com/emmanuelvisage/docker-sendy",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "github",
+        "ops"
+      ]
+    },
+    {
+      "id": "google-apps-checkmx",
+      "name": "Google Apps CheckMX",
+      "url": "https://toolbox.googleapps.com/apps/checkmx/check?domain=noonifications.tech&dkim_selector=",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "postmark-spamcheck",
+      "name": "Postmark Spamcheck",
+      "url": "https://spamcheck.postmarkapp.com/",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "sendy-api",
+      "name": "Sendy API",
+      "url": "https://sendy.co/api",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "sendy-forum-custom-redirect-after-signup",
+      "name": "Sendy forum: custom redirect after signup",
+      "url": "https://sendy.co/forum/discussion/15114/custom-redirect-after-signup-form-submission",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "sendy-forum-email-templates-resources",
+      "name": "Sendy forum: email templates resources",
+      "url": "https://sendy.co/forum/discussion/945/email-templates-resources",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops",
+        "templates"
+      ]
+    },
+    {
+      "id": "ssl-note-control-panel-kb",
+      "name": "SSL note / Control Panel KB",
+      "url": "https://controlpanel.tech/kb/answer/2391",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "zapier-tweet-new-sendy-campaigns",
+      "name": "Zapier: Tweet new Sendy campaigns",
+      "url": "https://zapier.com/apps/sendy/integrations/twitter/13350/tweet-new-sendy-campaigns?utm_source=widget&utm_medium=embed&utm_campaign=Widget",
+      "description": "",
+      "section": "ops",
+      "sourcePage": "/docs/ops",
+      "sourceFile": "ops.md",
+      "tags": [
+        "deliverability",
+        "ops"
+      ]
+    },
+    {
+      "id": "5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
+      "name": "5 reasons why newsletters should be part of your business strategy",
+      "url": "https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "building-a-design-system-for-email-templates-react",
+      "name": "Building a design system for email templates (React)",
+      "url": "https://hackernoon.com/building-a-design-system-for-email-templates-react",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "cool-newsletters-for-developers-part-1",
+      "name": "Cool newsletters for developers (part 1)",
+      "url": "https://hackernoon.com/cool-newsletters-for-developers-part-1",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "cool-resources-for-sending-emails",
+      "name": "Cool resources for sending emails",
+      "url": "https://hackernoon.com/cool-resources-for-sending-emails",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "email-marketing-and-how-to-curate-an-effective-business-newsletter",
+      "name": "Email marketing and how to curate an effective business newsletter",
+      "url": "https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "exploring-substack-for-building-your-newsletter",
+      "name": "Exploring Substack for building your newsletter",
+      "url": "https://hackernoon.com/exploring-substack-for-building-your-newsletter",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "platform"
+      ]
+    },
+    {
+      "id": "glossary-for-non-technies",
+      "name": "Glossary for non-technies",
+      "url": "https://hackernoon.com/glossary-for-non-technies",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "how-i-started-to-build-react-components-for-email-templates",
+      "name": "How I started to build React components for email templates",
+      "url": "https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "introducing-a-simple-npm-module-with-email-templates",
+      "name": "Introducing a simple npm module with email templates",
+      "url": "https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "organizing-an-advanced-structure-for-html-email-template",
+      "name": "Organizing an advanced structure for HTML email template",
+      "url": "https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "templates"
+      ]
+    },
+    {
+      "id": "together4victory-list-of-email-marketing-tools",
+      "name": "Together4Victory: list of email marketing tools",
+      "url": "https://hackernoon.com/together4victory-list-of-email-marketing-tools",
+      "description": "",
+      "section": "arthur",
+      "sourcePage": "/docs/arthur-articles",
+      "sourceFile": "arthur-articles.md",
+      "tags": [
+        "article",
+        "directory"
+      ]
+    }
+  ]
+}
