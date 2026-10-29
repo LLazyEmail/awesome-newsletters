@@ -1,0 +1,9 @@
+{
+  "label": "Guides",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Practical guides for starting, growing, and operating a newsletter."
+  }
+}
