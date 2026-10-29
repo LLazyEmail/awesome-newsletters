@@ -3,19 +3,45 @@
   "extends": [
     "config:recommended"
   ],
-  "labels": ["dependencies"],
+  "labels": [
+    "dependencies"
+  ],
   "timezone": "Europe/Kyiv",
-  "schedule": ["before 6am on monday"],
+  "schedule": [
+    "before 6am on monday"
+  ],
   "packageRules": [
     {
-      "matchManagers": ["npm"],
-      "matchFileNames": ["website/package.json"],
+      "matchManagers": [
+        "npm"
+      ],
+      "matchFileNames": [
+        "website/package.json"
+      ],
       "groupName": "website npm dependencies"
     },
     {
-      "matchDepTypes": ["devDependencies"],
-      "matchPackageNames": ["@docusaurus/**"],
+      "matchDepTypes": [
+        "devDependencies"
+      ],
+      "matchPackageNames": [
+        "@docusaurus/**"
+      ],
       "groupName": "docusaurus"
+    },
+    {
+      "matchManagers": [
+        "github-actions"
+      ],
+      "groupName": "github-actions",
+      "labels": [
+        "dependencies",
+        "github-actions"
+      ]
     }
+  ],
+  "enabledManagers": [
+    "npm",
+    "github-actions"
   ]
 }
