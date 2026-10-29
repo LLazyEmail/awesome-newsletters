@@ -1,10 +1,19 @@
 ---
 title: "Monetization"
 sidebar_label: "Monetization"
+description: "Curated resources: Monetization"
 ---
 
 # Monetization
 
-Placeholder page for the Docusaurus scaffold. Content is filled from the curated `README.md` in a follow-up PR (`generate-docs-from-readme`).
+From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize-your-newsletter/):
 
-See the [GitHub README](https://github.com/LLazyEmail/awesome-newsletters/blob/main/README.md) for the live list.
+1. Selling direct subscriptions
+2. Brand sponsorship
+3. Display advertising
+4. Classified advertisements
+5. Affiliate marketing
+6. Sell/promote your own products
+7. Sell merchandise
+8. Ask readers for donations (Patreon-style)
+9. Soft benefits: reuse assets, grow personal brand, drive traffic
