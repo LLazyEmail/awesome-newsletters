@@ -14,12 +14,8 @@ on:
 
 jobs:
   entry-format:
-    name: entry-format
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - name: Validate entry format
-        run: node scripts/validate-entry-format.mjs
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@main
+    with:
+      checks: entry-format
+      entry-format-mode: fail
+      node-version: '20'
