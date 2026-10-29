@@ -94,6 +94,7 @@ const config: Config = {
           items: [
             {label: 'Overview', to: '/docs/'},
             {label: 'Directories', to: '/docs/directories'},
+            {label: 'Catalog API', href: 'https://llazyemail.github.io/awesome-newsletters/api/v1/catalog.json'},
           ],
         },
         {
