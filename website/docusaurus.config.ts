@@ -109,6 +109,11 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
+        {
+          to: '/explore',
+          label: 'Explore',
+          position: 'left',
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/LLazyEmail/awesome-newsletters',
@@ -130,6 +135,7 @@ const config: Config = {
           items: [
             {label: 'Overview', to: '/docs/'},
             {label: 'Directories', to: '/docs/directories'},
+            {label: 'Catalog API', href: 'https://llazyemail.github.io/awesome-newsletters/api/v1/catalog.json'},
             {label: 'Growth tactics', to: '/docs/growth'},
             {label: 'Templates', to: '/docs/templates'},
           ],
