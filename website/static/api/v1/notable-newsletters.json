@@ -1,18 +1,28 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-30T09:30:25.707Z",
+  "generatedAt": "2026-10-30T09:31:26.075Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 10,
+  "count": 12,
   "byTopic": {
+    "tech": 3,
     "design": 1,
-    "tech": 2,
     "general": 3,
     "finance": 1,
-    "business": 3
+    "business": 3,
+    "media": 1
   },
   "newsletters": [
+    {
+      "id": "bytes-dev",
+      "name": "Bytes",
+      "topic": "tech",
+      "homepage": "https://bytes.dev/",
+      "sourcePage": "/docs/notable-newsletters/bytes-dev",
+      "path": "notable-newsletters/bytes-dev.md",
+      "whyStudy": "Why Bytes is worth studying as a newsletter — format, growth, and monetization notes."
+    },
     {
       "id": "dense-discovery",
       "name": "Dense Discovery",
@@ -75,6 +85,15 @@
       "sourcePage": "/docs/notable-newsletters/overview",
       "path": "notable-newsletters/overview.md",
       "whyStudy": "Short profiles of newsletters worth studying for craft and growth patterns."
+    },
+    {
+      "id": "platformer",
+      "name": "Platformer",
+      "topic": "media",
+      "homepage": "https://www.platformer.news/",
+      "sourcePage": "/docs/notable-newsletters/platformer",
+      "path": "notable-newsletters/platformer.md",
+      "whyStudy": "Why Platformer is worth studying as a newsletter — format, growth, and monetization notes."
     },
     {
       "id": "stratechery",
