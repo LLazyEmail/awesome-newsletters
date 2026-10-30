@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-30T09:31:58.828Z",
+  "generatedAt": "2026-10-30T09:56:18.013Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 13,
+  "count": 15,
   "byTopic": {
     "news": 1,
-    "tech": 3,
+    "tech": 5,
     "design": 1,
     "general": 3,
     "finance": 1,
@@ -43,6 +43,15 @@
       "whyStudy": "Why Dense Discovery is worth studying as a newsletter — format, growth, and monetization notes."
     },
     {
+      "id": "every",
+      "name": "Every",
+      "topic": "tech",
+      "homepage": "https://every.to/",
+      "sourcePage": "/docs/notable-newsletters/every",
+      "path": "notable-newsletters/every.md",
+      "whyStudy": "Why Every is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
       "id": "frontend-focus",
       "name": "Frontend Focus",
       "topic": "tech",
@@ -50,6 +59,15 @@
       "sourcePage": "/docs/notable-newsletters/frontend-focus",
       "path": "notable-newsletters/frontend-focus.md",
       "whyStudy": "Why Frontend Focus is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
+      "id": "javascript-weekly",
+      "name": "JavaScript Weekly",
+      "topic": "tech",
+      "homepage": "https://javascriptweekly.com/",
+      "sourcePage": "/docs/notable-newsletters/javascript-weekly",
+      "path": "notable-newsletters/javascript-weekly.md",
+      "whyStudy": "Why JavaScript Weekly is worth studying as a newsletter — format, growth, and monetization notes."
     },
     {
       "id": "lennys-newsletter",
