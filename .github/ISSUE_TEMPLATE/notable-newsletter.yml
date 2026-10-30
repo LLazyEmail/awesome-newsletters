@@ -1,0 +1,49 @@
+name: Notable newsletter profile
+description: Suggest a newsletter worth a dedicated docs profile page
+title: "[Notable] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Newsletter name
+      placeholder: e.g. Stratechery
+    validations:
+      required: true
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage / subscribe URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - business
+        - tech
+        - design
+        - finance
+        - media
+        - news
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why study it?
+      description: Format, growth, monetization, or craft notes (2–4 sentences).
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: Homepage URL resolves for me in a normal browser
+          required: true
+        - label: This is not a duplicate of an existing notable-newsletters page
+          required: true
