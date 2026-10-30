@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-10-30
 
+- [`#126`](https://github.com/LLazyEmail/awesome-newsletters/pull/126) ci: pin documentation-actions to @v1 (v1.1.1) — Arthur Tkachenko
 - [`#119`](https://github.com/LLazyEmail/awesome-newsletters/pull/119) ci: adopt documentation-actions duplicate-links check — Arthur Tkachenko
 - [`#118`](https://github.com/LLazyEmail/awesome-newsletters/pull/118) ci: adopt documentation-actions entry-format check — Arthur Tkachenko
 - [`#117`](https://github.com/LLazyEmail/awesome-newsletters/pull/117) ci: adopt documentation-actions docs-index — Arthur Tkachenko
