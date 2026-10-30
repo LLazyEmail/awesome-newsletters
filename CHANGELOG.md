@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-10-30
 
+- [`#119`](https://github.com/LLazyEmail/awesome-newsletters/pull/119) ci: adopt documentation-actions duplicate-links check — Arthur Tkachenko
 - [`#118`](https://github.com/LLazyEmail/awesome-newsletters/pull/118) ci: adopt documentation-actions entry-format check — Arthur Tkachenko
 - [`#117`](https://github.com/LLazyEmail/awesome-newsletters/pull/117) ci: adopt documentation-actions docs-index — Arthur Tkachenko
 - [`#116`](https://github.com/LLazyEmail/awesome-newsletters/pull/116) ci: adopt documentation-actions changelog — Arthur Tkachenko
@@ -129,6 +130,7 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`3ee386d`](https://github.com/LLazyEmail/awesome-newsletters/commit/3ee386d1de33eddd44f184e42b3466bffbdf95bd) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
 - [`02effd1`](https://github.com/LLazyEmail/awesome-newsletters/commit/02effd1d7fcfd35fa9bbddc0099cfb30ac759d5a) feat(website): add Notable newsletters starter profile pages — atherdon
 - [`b49f82f`](https://github.com/LLazyEmail/awesome-newsletters/commit/b49f82f1b18c92ca611ca590fd7c29f1824f22d3) ci: adopt documentation-actions for check-sorted-sections — atherdon
+- [`c7cddbb`](https://github.com/LLazyEmail/awesome-newsletters/commit/c7cddbb6f1ff57846c3ff39c2c2a82613e259448) ci: adopt documentation-actions for check-duplicate-links — atherdon
 - [`9cc1ab9`](https://github.com/LLazyEmail/awesome-newsletters/commit/9cc1ab9de02a442992817dce0732a6a294e83af6) ci: adopt documentation-actions for validate-entries — atherdon
 - [`19dc0e4`](https://github.com/LLazyEmail/awesome-newsletters/commit/19dc0e49270ecbc0870192e73021a22a7d2f4b9a) chore: sidebar Curated resources moved to #109 — atherdon
 - [`77c4a1d`](https://github.com/LLazyEmail/awesome-newsletters/commit/77c4a1df9db3e192aeaa0a473e937a409f47dafa) ci: adopt documentation-actions for docs-index — atherdon
