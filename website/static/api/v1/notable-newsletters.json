@@ -1,10 +1,78 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-29T00:00:00.000Z",
+  "generatedAt": "2026-10-30T08:37:13.179Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 0,
-  "byTopic": {},
-  "newsletters": []
+  "count": 7,
+  "byTopic": {
+    "tech": 2,
+    "general": 3,
+    "business": 2
+  },
+  "newsletters": [
+    {
+      "id": "frontend-focus",
+      "name": "Frontend Focus",
+      "topic": "tech",
+      "homepage": "https://frontendfoc.us/",
+      "sourcePage": "/docs/notable-newsletters/frontend-focus",
+      "path": "notable-newsletters/frontend-focus.md",
+      "whyStudy": "Why Frontend Focus is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
+      "id": "lennys-newsletter",
+      "name": "Lenny's Newsletter",
+      "topic": "general",
+      "homepage": "",
+      "sourcePage": "/docs/notable-newsletters/lennys-newsletter",
+      "path": "notable-newsletters/lennys-newsletter.md",
+      "whyStudy": "Product and growth essays popular with operators."
+    },
+    {
+      "id": "morning-brew",
+      "name": "Morning Brew",
+      "topic": "general",
+      "homepage": "",
+      "sourcePage": "/docs/notable-newsletters/morning-brew",
+      "path": "notable-newsletters/morning-brew.md",
+      "whyStudy": "High-volume business newsletter known for voice and growth loops."
+    },
+    {
+      "id": "overview",
+      "name": "Overview",
+      "topic": "general",
+      "homepage": "",
+      "sourcePage": "/docs/notable-newsletters/overview",
+      "path": "notable-newsletters/overview.md",
+      "whyStudy": "Short profiles of newsletters worth studying for craft and growth patterns."
+    },
+    {
+      "id": "stratechery",
+      "name": "Stratechery",
+      "topic": "business",
+      "homepage": "https://stratechery.com/",
+      "sourcePage": "/docs/notable-newsletters/stratechery",
+      "path": "notable-newsletters/stratechery.md",
+      "whyStudy": "Why Stratechery is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
+      "id": "the-hustle",
+      "name": "The Hustle",
+      "topic": "business",
+      "homepage": "https://thehustle.co/",
+      "sourcePage": "/docs/notable-newsletters/the-hustle",
+      "path": "notable-newsletters/the-hustle.md",
+      "whyStudy": "Why The Hustle is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
+      "id": "tldr",
+      "name": "TLDR",
+      "topic": "tech",
+      "homepage": "https://tldr.tech/",
+      "sourcePage": "/docs/notable-newsletters/tldr",
+      "path": "notable-newsletters/tldr.md",
+      "whyStudy": "Why TLDR is worth studying as a newsletter — format, growth, and monetization notes."
+    }
+  ]
 }
