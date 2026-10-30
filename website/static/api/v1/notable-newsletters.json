@@ -1,16 +1,27 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-30T08:37:13.179Z",
+  "generatedAt": "2026-10-30T09:30:25.707Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 7,
+  "count": 10,
   "byTopic": {
+    "design": 1,
     "tech": 2,
     "general": 3,
-    "business": 2
+    "finance": 1,
+    "business": 3
   },
   "newsletters": [
+    {
+      "id": "dense-discovery",
+      "name": "Dense Discovery",
+      "topic": "design",
+      "homepage": "https://www.dense-discovery.com/",
+      "sourcePage": "/docs/notable-newsletters/dense-discovery",
+      "path": "notable-newsletters/dense-discovery.md",
+      "whyStudy": "Why Dense Discovery is worth studying as a newsletter — format, growth, and monetization notes."
+    },
     {
       "id": "frontend-focus",
       "name": "Frontend Focus",
@@ -30,6 +41,15 @@
       "whyStudy": "Product and growth essays popular with operators."
     },
     {
+      "id": "milk-road",
+      "name": "Milk Road",
+      "topic": "finance",
+      "homepage": "https://www.milkroad.com/",
+      "sourcePage": "/docs/notable-newsletters/milk-road",
+      "path": "notable-newsletters/milk-road.md",
+      "whyStudy": "Why Milk Road is worth studying as a newsletter — format, growth, and monetization notes."
+    },
+    {
       "id": "morning-brew",
       "name": "Morning Brew",
       "topic": "general",
@@ -37,6 +57,15 @@
       "sourcePage": "/docs/notable-newsletters/morning-brew",
       "path": "notable-newsletters/morning-brew.md",
       "whyStudy": "High-volume business newsletter known for voice and growth loops."
+    },
+    {
+      "id": "not-boring",
+      "name": "Not Boring",
+      "topic": "business",
+      "homepage": "https://www.notboring.co/",
+      "sourcePage": "/docs/notable-newsletters/not-boring",
+      "path": "notable-newsletters/not-boring.md",
+      "whyStudy": "Why Not Boring is worth studying as a newsletter — format, growth, and monetization notes."
     },
     {
       "id": "overview",
