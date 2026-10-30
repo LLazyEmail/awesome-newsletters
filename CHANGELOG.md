@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-10-30
 
+- [`#111`](https://github.com/LLazyEmail/awesome-newsletters/pull/111) ci: adopt documentation-actions auto-rebase — Arthur Tkachenko
 - [`#125`](https://github.com/LLazyEmail/awesome-newsletters/pull/125) fix(ci): rebase-retry when regen workflows push to main — Arthur Tkachenko
 - [`#124`](https://github.com/LLazyEmail/awesome-newsletters/pull/124) fix(changelog): pass auto-changelog --output on CLI (unsafe-config) — Arthur Tkachenko
 - [`#120`](https://github.com/LLazyEmail/awesome-newsletters/pull/120) ci: adopt documentation-actions sorted-sections check — Arthur Tkachenko
@@ -95,6 +96,8 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`#5`](https://github.com/LLazyEmail/awesome-newsletters/pull/5) docs: restructure README with TOC and titled links — Arthur Tkachenko
 - [`#4`](https://github.com/LLazyEmail/awesome-newsletters/pull/4) chore: add MIT LICENSE — Arthur Tkachenko
 - [`#2`](https://github.com/LLazyEmail/awesome-newsletters/pull/2) Update content.md — Arthur Tkachenko
+- [`df8c5f5`](https://github.com/LLazyEmail/awesome-newsletters/commit/df8c5f5d94450615ca987b3919a208d40c80b533) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`14ab706`](https://github.com/LLazyEmail/awesome-newsletters/commit/14ab706e0fed2b58f5082f6f445d6ed548d6102f) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`4497199`](https://github.com/LLazyEmail/awesome-newsletters/commit/4497199412c83b5081afa15095801012b8e2fceb) fix(changelog): pass auto-changelog --output on CLI — atherdon
 - [`57a947d`](https://github.com/LLazyEmail/awesome-newsletters/commit/57a947dfd64c37ab47aa8ce61fde7ebada3f0d6e) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`121ea92`](https://github.com/LLazyEmail/awesome-newsletters/commit/121ea923360ab1aeed9b81f56c4828893a1971d7) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
@@ -120,6 +123,7 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`02effd1`](https://github.com/LLazyEmail/awesome-newsletters/commit/02effd1d7fcfd35fa9bbddc0099cfb30ac759d5a) feat(website): add Notable newsletters starter profile pages — atherdon
 - [`b49f82f`](https://github.com/LLazyEmail/awesome-newsletters/commit/b49f82f1b18c92ca611ca590fd7c29f1824f22d3) ci: adopt documentation-actions for check-sorted-sections — atherdon
 - [`19dc0e4`](https://github.com/LLazyEmail/awesome-newsletters/commit/19dc0e49270ecbc0870192e73021a22a7d2f4b9a) chore: sidebar Curated resources moved to #109 — atherdon
+- [`ebf0d82`](https://github.com/LLazyEmail/awesome-newsletters/commit/ebf0d829b41fc853b3685c2b851704cdf55b32c7) ci: adopt documentation-actions for auto-rebase-prs — atherdon
 - [`aca79d0`](https://github.com/LLazyEmail/awesome-newsletters/commit/aca79d0166b60c8c1489e706c4d7e50a8cea646c) ci: adopt documentation-actions for star-request — atherdon
 - [`5c329bc`](https://github.com/LLazyEmail/awesome-newsletters/commit/5c329bc2686538c24fedae9d1dc61aa48d82c724) feat(website): add Notable newsletters overview stub — atherdon
 - [`9fcae62`](https://github.com/LLazyEmail/awesome-newsletters/commit/9fcae627dbfb0f26123bc0ece7764676259abfca) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
