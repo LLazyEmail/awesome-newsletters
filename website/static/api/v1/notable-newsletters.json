@@ -1,11 +1,12 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-30T09:31:26.075Z",
+  "generatedAt": "2026-10-30T09:31:58.828Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 12,
+  "count": 13,
   "byTopic": {
+    "news": 1,
     "tech": 3,
     "design": 1,
     "general": 3,
@@ -14,6 +15,15 @@
     "media": 1
   },
   "newsletters": [
+    {
+      "id": "axios-am",
+      "name": "Axios AM",
+      "topic": "news",
+      "homepage": "https://www.axios.com/newsletters/axios-am",
+      "sourcePage": "/docs/notable-newsletters/axios-am",
+      "path": "notable-newsletters/axios-am.md",
+      "whyStudy": "Why Axios AM is worth studying as a newsletter — format, growth, and monetization notes."
+    },
     {
       "id": "bytes-dev",
       "name": "Bytes",
