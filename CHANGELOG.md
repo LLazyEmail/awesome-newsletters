@@ -1,10 +1,173 @@
-# Changelog
+### Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) where applicable.
+### Unreleased
 
-## [Unreleased]
+> 2026-10-30
 
-- Repository polish and Docusaurus website scaffold (see open draft PRs).
+- [`#124`](https://github.com/LLazyEmail/awesome-newsletters/pull/124) fix(changelog): pass auto-changelog --output on CLI (unsafe-config) — Arthur Tkachenko
+- [`#120`](https://github.com/LLazyEmail/awesome-newsletters/pull/120) ci: adopt documentation-actions sorted-sections check — Arthur Tkachenko
+- [`#77`](https://github.com/LLazyEmail/awesome-newsletters/pull/77) feat(docs): add JavaScript Weekly notable-newsletter profile — Arthur Tkachenko
+- [`#75`](https://github.com/LLazyEmail/awesome-newsletters/pull/75) feat(docs): add Every notable-newsletter profile — Arthur Tkachenko
+- [`#110`](https://github.com/LLazyEmail/awesome-newsletters/pull/110) ci: adopt documentation-actions star-request — Arthur Tkachenko
+- [`#79`](https://github.com/LLazyEmail/awesome-newsletters/pull/79) feat(docs): add Axios AM notable-newsletter profile — Arthur Tkachenko
+- [`#78`](https://github.com/LLazyEmail/awesome-newsletters/pull/78) feat(docs): add Platformer notable-newsletter profile — Arthur Tkachenko
+- [`#76`](https://github.com/LLazyEmail/awesome-newsletters/pull/76) feat(docs): add Bytes notable-newsletter profile — Arthur Tkachenko
+- [`#74`](https://github.com/LLazyEmail/awesome-newsletters/pull/74) feat(docs): add Not Boring notable-newsletter profile — Arthur Tkachenko
+- [`#73`](https://github.com/LLazyEmail/awesome-newsletters/pull/73) feat(docs): add Milk Road notable-newsletter profile — Arthur Tkachenko
+- [`#72`](https://github.com/LLazyEmail/awesome-newsletters/pull/72) feat(docs): add Dense Discovery notable-newsletter profile — Arthur Tkachenko
+- [`#123`](https://github.com/LLazyEmail/awesome-newsletters/pull/123) docs: add MERGE_ORDER.md merge checklist for open PRs — Arthur Tkachenko
+- [`#101`](https://github.com/LLazyEmail/awesome-newsletters/pull/101) docs(website): document generators and JSON API in website README — Arthur Tkachenko
+- [`#82`](https://github.com/LLazyEmail/awesome-newsletters/pull/82) ci: add workflow to regenerate notable-newsletters JSON API — Arthur Tkachenko
+- [`#62`](https://github.com/LLazyEmail/awesome-newsletters/pull/62) ci: add workflow to regenerate catalog JSON API — Arthur Tkachenko
+- [`#58`](https://github.com/LLazyEmail/awesome-newsletters/pull/58) ci: allow prefixed text before markdown links in entry-format — Arthur Tkachenko
+- [`#105`](https://github.com/LLazyEmail/awesome-newsletters/pull/105) feat(github): add issue form for notable newsletter profiles — Arthur Tkachenko
+- [`#103`](https://github.com/LLazyEmail/awesome-newsletters/pull/103) feat(website): add robots.txt with sitemap pointer — Arthur Tkachenko
+- [`#100`](https://github.com/LLazyEmail/awesome-newsletters/pull/100) feat(website): add RelatedResources component — Arthur Tkachenko
+- [`#98`](https://github.com/LLazyEmail/awesome-newsletters/pull/98) feat(data): add directories.yaml structured entries seed — Arthur Tkachenko
+- [`#64`](https://github.com/LLazyEmail/awesome-newsletters/pull/64) feat(api): publish glossary.json under static/api/v1 — Arthur Tkachenko
+- [`#63`](https://github.com/LLazyEmail/awesome-newsletters/pull/63) feat(website): add glossary.json data for newsletter terms — Arthur Tkachenko
+- [`#80`](https://github.com/LLazyEmail/awesome-newsletters/pull/80) feat(docs): add Frontend Focus notable-newsletter profile — Arthur Tkachenko
+- [`#71`](https://github.com/LLazyEmail/awesome-newsletters/pull/71) feat(docs): add TLDR notable-newsletter profile — Arthur Tkachenko
+- [`#123`](https://github.com/LLazyEmail/awesome-newsletters/pull/123) docs: link MERGE_ORDER checklist to this PR — atherdon
+- [`#122`](https://github.com/LLazyEmail/awesome-newsletters/pull/122) feat(website): combine Explore, catalog, and generator PRs — Arthur Tkachenko
+- [`#121`](https://github.com/LLazyEmail/awesome-newsletters/pull/121) feat(readme): combine overlapping README section PRs — Arthur Tkachenko
+- [`#70`](https://github.com/LLazyEmail/awesome-newsletters/pull/70) feat(docs): add The Hustle notable-newsletter profile — Arthur Tkachenko
+- [`#69`](https://github.com/LLazyEmail/awesome-newsletters/pull/69) feat(docs): add Stratechery notable-newsletter profile — Arthur Tkachenko
+- [`#59`](https://github.com/LLazyEmail/awesome-newsletters/pull/59) feat(website): add catalog and notable-newsletter TypeScript types — Arthur Tkachenko
+- [`#60`](https://github.com/LLazyEmail/awesome-newsletters/pull/60) feat(website): seed empty catalog.json data file — Arthur Tkachenko
+- [`#45`](https://github.com/LLazyEmail/awesome-newsletters/pull/45) docs: add short descriptions to directory roundup entries — Arthur Tkachenko
+- [`#108`](https://github.com/LLazyEmail/awesome-newsletters/pull/108) feat(docs): add Podcasts docs mirror page — Arthur Tkachenko
+- [`#91`](https://github.com/LLazyEmail/awesome-newsletters/pull/91) feat(website): wire Guides category into docs sidebar — Arthur Tkachenko
+- [`#43`](https://github.com/LLazyEmail/awesome-newsletters/pull/43) feat(website): group docs sidebar into Curated resources category — Arthur Tkachenko
+- [`#107`](https://github.com/LLazyEmail/awesome-newsletters/pull/107) feat(docs): add Community & forums docs mirror page — Arthur Tkachenko
+- [`#56`](https://github.com/LLazyEmail/awesome-newsletters/pull/56) feat(website): add Newsletter platforms docs page — Arthur Tkachenko
+- [`#109`](https://github.com/LLazyEmail/awesome-newsletters/pull/109) feat(website): consolidated sidebar structure — Arthur Tkachenko
+- [`#52`](https://github.com/LLazyEmail/awesome-newsletters/pull/52) feat(website): add Notable newsletters docs category (starter pages) — Arthur Tkachenko
+- [`#51`](https://github.com/LLazyEmail/awesome-newsletters/pull/51) feat(website): polish homepage hero and footer CSS — Arthur Tkachenko
+- [`#53`](https://github.com/LLazyEmail/awesome-newsletters/pull/53) chore: extend Renovate to update GitHub Actions — Arthur Tkachenko
+- [`#54`](https://github.com/LLazyEmail/awesome-newsletters/pull/54) docs: alphabetize Templates & HTML email entries — Arthur Tkachenko
+- [`#55`](https://github.com/LLazyEmail/awesome-newsletters/pull/55) feat(website): expand footer docs and community links — Arthur Tkachenko
+- [`#50`](https://github.com/LLazyEmail/awesome-newsletters/pull/50) feat(website): add homepage MetricsStrip inspired by AEM — Arthur Tkachenko
+- [`#49`](https://github.com/LLazyEmail/awesome-newsletters/pull/49) docs: link README to GitHub Pages docs site — Arthur Tkachenko
+- [`#41`](https://github.com/LLazyEmail/awesome-newsletters/pull/41) docs(website): add Contributing page linked from sidebar — Arthur Tkachenko
+- [`#47`](https://github.com/LLazyEmail/awesome-newsletters/pull/47) docs: add Newsletter analytics & metrics section — Arthur Tkachenko
+- [`#42`](https://github.com/LLazyEmail/awesome-newsletters/pull/42) feat(website): add Blog link to the navbar — Arthur Tkachenko
+- [`#48`](https://github.com/LLazyEmail/awesome-newsletters/pull/48) docs: extend Templates section with Can I email, MJML, Maizzle — Arthur Tkachenko
+- [`#44`](https://github.com/LLazyEmail/awesome-newsletters/pull/44) docs: add Newsletters to study section with well-known titles — Arthur Tkachenko
+- [`#39`](https://github.com/LLazyEmail/awesome-newsletters/pull/39) feat(website): add docs pages-index generator and workflow — Arthur Tkachenko
+- [`#40`](https://github.com/LLazyEmail/awesome-newsletters/pull/40) feat(website): add glossary of newsletter terms — Arthur Tkachenko
+- [`#38`](https://github.com/LLazyEmail/awesome-newsletters/pull/38) feat(website): add SEO metadata and explicit sitemap config — Arthur Tkachenko
+- [`#37`](https://github.com/LLazyEmail/awesome-newsletters/pull/37) feat(website): add local search via easyops plugin — Arthur Tkachenko
+- [`#36`](https://github.com/LLazyEmail/awesome-newsletters/pull/36) feat(website): add HomepageFeatures section mirroring AEM — Arthur Tkachenko
+- [`#34`](https://github.com/LLazyEmail/awesome-newsletters/pull/34) ci: add warn-only alphabetical section order check — Arthur Tkachenko
+- [`#32`](https://github.com/LLazyEmail/awesome-newsletters/pull/32) ci: add README entry-format validation script and workflow — Arthur Tkachenko
+- [`#35`](https://github.com/LLazyEmail/awesome-newsletters/pull/35) ci: soften lychee to summary-only (no hard fail) — Arthur Tkachenko
+- [`#23`](https://github.com/LLazyEmail/awesome-newsletters/pull/23) ci: add changelog workflow and CHANGELOG scaffolding — Arthur Tkachenko
+- [`#31`](https://github.com/LLazyEmail/awesome-newsletters/pull/31) docs: link CONTRIBUTING to Code of Conduct and SECURITY — Arthur Tkachenko
+- [`#29`](https://github.com/LLazyEmail/awesome-newsletters/pull/29) chore: add structured issue form for newsletter submissions — Arthur Tkachenko
+- [`#30`](https://github.com/LLazyEmail/awesome-newsletters/pull/30) chore: add issue template config with contact links — Arthur Tkachenko
+- [`#33`](https://github.com/LLazyEmail/awesome-newsletters/pull/33) ci: add duplicate-link check for README URLs — Arthur Tkachenko
+- [`#24`](https://github.com/LLazyEmail/awesome-newsletters/pull/24) chore: add CODEOWNERS for default review routing — Arthur Tkachenko
+- [`#25`](https://github.com/LLazyEmail/awesome-newsletters/pull/25) chore: add FUNDING.yml for GitHub Sponsors — Arthur Tkachenko
+- [`#26`](https://github.com/LLazyEmail/awesome-newsletters/pull/26) docs: add SECURITY.md with private reporting contact — Arthur Tkachenko
+- [`#27`](https://github.com/LLazyEmail/awesome-newsletters/pull/27) docs: add Contributor Covenant Code of Conduct — Arthur Tkachenko
+- [`#28`](https://github.com/LLazyEmail/awesome-newsletters/pull/28) chore: add .editorconfig for consistent formatting — Arthur Tkachenko
+- [`#21`](https://github.com/LLazyEmail/awesome-newsletters/pull/21) ci: add GitHub Pages deploy workflow for website — Arthur Tkachenko
+- [`#22`](https://github.com/LLazyEmail/awesome-newsletters/pull/22) ci: add test-deploy workflow for website PRs — Arthur Tkachenko
+- [`#20`](https://github.com/LLazyEmail/awesome-newsletters/pull/20) feat(website): fill docs from curated README sections — Arthur Tkachenko
+- [`#19`](https://github.com/LLazyEmail/awesome-newsletters/pull/19) feat(website): scaffold Docusaurus 3.10 site — Arthur Tkachenko
+- [`#16`](https://github.com/LLazyEmail/awesome-newsletters/pull/16) ci: add lychee link-check workflow — Arthur Tkachenko
+- [`#15`](https://github.com/LLazyEmail/awesome-newsletters/pull/15) ci: add markdownlint workflow for curated markdown — Arthur Tkachenko
+- [`#18`](https://github.com/LLazyEmail/awesome-newsletters/pull/18) ci: add auto-rebase open PRs workflow — Arthur Tkachenko
+- [`#17`](https://github.com/LLazyEmail/awesome-newsletters/pull/17) ci: add star-request comment workflow — Arthur Tkachenko
+- [`#14`](https://github.com/LLazyEmail/awesome-newsletters/pull/14) chore: add root .gitignore for OS and website artifacts — Arthur Tkachenko
+- [`#13`](https://github.com/LLazyEmail/awesome-newsletters/pull/13) chore: add renovate.json for website dependency updates — Arthur Tkachenko
+- [`#11`](https://github.com/LLazyEmail/awesome-newsletters/pull/11) docs: add AGENTS.md and CLAUDE.md for AI agents — Arthur Tkachenko
+- [`#10`](https://github.com/LLazyEmail/awesome-newsletters/pull/10) chore: add PR and issue templates (with star checkbox) — Arthur Tkachenko
+- [`#9`](https://github.com/LLazyEmail/awesome-newsletters/pull/9) docs: add CONTRIBUTING.md — Arthur Tkachenko
+- [`#12`](https://github.com/LLazyEmail/awesome-newsletters/pull/12) docs: add README badges and CONTRIBUTING link — Arthur Tkachenko
+- [`#8`](https://github.com/LLazyEmail/awesome-newsletters/pull/8) docs: annotate broken links; clarify related awesome list — Arthur Tkachenko
+- [`#7`](https://github.com/LLazyEmail/awesome-newsletters/pull/7) docs: alphabetize README section entries — Arthur Tkachenko
+- [`#6`](https://github.com/LLazyEmail/awesome-newsletters/pull/6) docs: move scratch files into notes/ with index — Arthur Tkachenko
+- [`#5`](https://github.com/LLazyEmail/awesome-newsletters/pull/5) docs: restructure README with TOC and titled links — Arthur Tkachenko
+- [`#4`](https://github.com/LLazyEmail/awesome-newsletters/pull/4) chore: add MIT LICENSE — Arthur Tkachenko
+- [`#2`](https://github.com/LLazyEmail/awesome-newsletters/pull/2) Update content.md — Arthur Tkachenko
+- [`4497199`](https://github.com/LLazyEmail/awesome-newsletters/commit/4497199412c83b5081afa15095801012b8e2fceb) fix(changelog): pass auto-changelog --output on CLI — atherdon
+- [`57a947d`](https://github.com/LLazyEmail/awesome-newsletters/commit/57a947dfd64c37ab47aa8ce61fde7ebada3f0d6e) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`121ea92`](https://github.com/LLazyEmail/awesome-newsletters/commit/121ea923360ab1aeed9b81f56c4828893a1971d7) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`be5e28e`](https://github.com/LLazyEmail/awesome-newsletters/commit/be5e28e8d8a77feab918f80654136a91306415ee) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`875ffb4`](https://github.com/LLazyEmail/awesome-newsletters/commit/875ffb46687c690d74582b788c7dff086e96864c) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`f6f8e88`](https://github.com/LLazyEmail/awesome-newsletters/commit/f6f8e88b38e377ff116dd40473cb5689874b269b) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`e2fe20a`](https://github.com/LLazyEmail/awesome-newsletters/commit/e2fe20aaa3fe1bbc87c922fb98ac8ea4c18a6d91) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`7c28cdf`](https://github.com/LLazyEmail/awesome-newsletters/commit/7c28cdfc3066fbae6050c8295e8312d48b72abf8) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`195f34f`](https://github.com/LLazyEmail/awesome-newsletters/commit/195f34f4032c6ee0d1a48e225e3668dac0348af9) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`7ba5bb4`](https://github.com/LLazyEmail/awesome-newsletters/commit/7ba5bb4e97053e962dc8953a9a1f6fc71c53c7da) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`7b4a8c4`](https://github.com/LLazyEmail/awesome-newsletters/commit/7b4a8c4d44b6bb8b6f5c2efe60dcb1faf9569743) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`7ae3749`](https://github.com/LLazyEmail/awesome-newsletters/commit/7ae3749feb761ce4ab518dd5f8bd96e407f2fd94) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
+- [`34d6200`](https://github.com/LLazyEmail/awesome-newsletters/commit/34d6200fc943447ad1522cea772450b4239c0469) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`9378b9b`](https://github.com/LLazyEmail/awesome-newsletters/commit/9378b9bdc7ed0b2834544c46b106e8025808c8a5) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`1756b1d`](https://github.com/LLazyEmail/awesome-newsletters/commit/1756b1d9bc5c4e5bf976d8eceabc3f11bb8fd188) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`65e0101`](https://github.com/LLazyEmail/awesome-newsletters/commit/65e0101d9d003703814aea96affd0b33717ba1ed) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`242c7c5`](https://github.com/LLazyEmail/awesome-newsletters/commit/242c7c5cc858f0a5326865cc18b7505921e1c09a) chore: podcasts docs page already on main via #109 — atherdon
+- [`e9cb181`](https://github.com/LLazyEmail/awesome-newsletters/commit/e9cb181d0c0e2fb5a4ef0129fec7ce0a5fdd25be) chore: community docs page already on main via #109 — atherdon
+- [`352d497`](https://github.com/LLazyEmail/awesome-newsletters/commit/352d49703cdb2fac54883197e0e3e05971e034a1) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`69e7e5d`](https://github.com/LLazyEmail/awesome-newsletters/commit/69e7e5d23187d38a75caf9c4deee3a8970ba0a46) feat(website): add Guides docs pages — atherdon
+- [`dc2aad3`](https://github.com/LLazyEmail/awesome-newsletters/commit/dc2aad38d469251a7574e1904b351409e842148b) feat(website): fold Guides, Community, Podcasts into consolidated sidebar — atherdon
+- [`3ee386d`](https://github.com/LLazyEmail/awesome-newsletters/commit/3ee386d1de33eddd44f184e42b3466bffbdf95bd) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`02effd1`](https://github.com/LLazyEmail/awesome-newsletters/commit/02effd1d7fcfd35fa9bbddc0099cfb30ac759d5a) feat(website): add Notable newsletters starter profile pages — atherdon
+- [`b49f82f`](https://github.com/LLazyEmail/awesome-newsletters/commit/b49f82f1b18c92ca611ca590fd7c29f1824f22d3) ci: adopt documentation-actions for check-sorted-sections — atherdon
+- [`19dc0e4`](https://github.com/LLazyEmail/awesome-newsletters/commit/19dc0e49270ecbc0870192e73021a22a7d2f4b9a) chore: sidebar Curated resources moved to #109 — atherdon
+- [`aca79d0`](https://github.com/LLazyEmail/awesome-newsletters/commit/aca79d0166b60c8c1489e706c4d7e50a8cea646c) ci: adopt documentation-actions for star-request — atherdon
+- [`5c329bc`](https://github.com/LLazyEmail/awesome-newsletters/commit/5c329bc2686538c24fedae9d1dc61aa48d82c724) feat(website): add Notable newsletters overview stub — atherdon
+- [`9fcae62`](https://github.com/LLazyEmail/awesome-newsletters/commit/9fcae627dbfb0f26123bc0ece7764676259abfca) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`30f7504`](https://github.com/LLazyEmail/awesome-newsletters/commit/30f750457906403e2574dc1ceeb7194d92cd403a) chore(docs-index): regenerate all-pages markdown list — github-actions[bot]
+- [`9730b22`](https://github.com/LLazyEmail/awesome-newsletters/commit/9730b226daa96248716a0d62d68a142f2d3c4ccd) fix(docs): fill Dense Discovery notable-newsletter profile content — atherdon
+- [`823dbc6`](https://github.com/LLazyEmail/awesome-newsletters/commit/823dbc66b764d0ac3c8d6a44940698860e8a61e3) fix(docs): fill TLDR notable-newsletter profile content — atherdon
+- [`b3a1a1f`](https://github.com/LLazyEmail/awesome-newsletters/commit/b3a1a1ffe25bb5a189900b60f80c2702416a3047) fix(docs): fill The Hustle notable-newsletter profile content — atherdon
+- [`211e58d`](https://github.com/LLazyEmail/awesome-newsletters/commit/211e58dae372345c7659a44bae34555deb11cd88) fix(docs): fill Stratechery notable-newsletter profile content — atherdon
+- [`01b06eb`](https://github.com/LLazyEmail/awesome-newsletters/commit/01b06eba6d8b7d816827e4844d41bea31ec1b459) ci: run duplicate-link check in warn-only mode — atherdon
+- [`fb00850`](https://github.com/LLazyEmail/awesome-newsletters/commit/fb0085040a1f5bebd6784bf81a8219d9afd5f525) ci: add markdownlint workflow for curated README — atherdon
+- [`897070a`](https://github.com/LLazyEmail/awesome-newsletters/commit/897070aff781d6886c057fe6edd1f130f985f166) fix(website): use MDX truncate comment in welcome post — atherdon
+- [`22580e4`](https://github.com/LLazyEmail/awesome-newsletters/commit/22580e44565cf42816287326de9e6cf8be28148a) fix(docs): keep GitHub subsections after alphabetize — atherdon
+- [`eb439bc`](https://github.com/LLazyEmail/awesome-newsletters/commit/eb439bc5286e62aad1d1c65ea44122e1ae1eedf5) Update README.md — Arthur Tkachenko
+- [`d853e49`](https://github.com/LLazyEmail/awesome-newsletters/commit/d853e494eabf0a7131d73909f331d5338c543082) Delete css.md — Arthur Tkachenko
+- [`23ed5e9`](https://github.com/LLazyEmail/awesome-newsletters/commit/23ed5e90ec9b45f508fded359b10ab1d03e1e47c) Delete йгуышщтыюьв — Arthur Tkachenko
+- [`b59e0fb`](https://github.com/LLazyEmail/awesome-newsletters/commit/b59e0fbde976bb45eaa3531ffc7329ec27db1d2b) Delete services.md — Arthur Tkachenko
+- [`9699391`](https://github.com/LLazyEmail/awesome-newsletters/commit/969939138563fee4f745d0623a9a92fff593a030) Delete reasons.md — Arthur Tkachenko
+- [`e49a028`](https://github.com/LLazyEmail/awesome-newsletters/commit/e49a02858b607bda39b2265f60530bb217449804) Update стафф — Arthur Tkachenko
+- [`c8cced0`](https://github.com/LLazyEmail/awesome-newsletters/commit/c8cced065afb0299d38d7c3887a9875f7df39490) Delete templates.md — Arthur Tkachenko
+- [`ee141a5`](https://github.com/LLazyEmail/awesome-newsletters/commit/ee141a500fcf23636d6b34aa709839942eef4f85) Update README.md — Arthur Tkachenko
+- [`cc95657`](https://github.com/LLazyEmail/awesome-newsletters/commit/cc95657f905214c27f09b4c80bc82a4f693c3569) Update README.md — Arthur Tkachenko
+- [`91891f4`](https://github.com/LLazyEmail/awesome-newsletters/commit/91891f48a8d1f7633009b72f07a4726fc57a9e0d) Create css.md — Arthur Tkachenko
+- [`49c665a`](https://github.com/LLazyEmail/awesome-newsletters/commit/49c665a4fecfdd3eb3935108bb02e277da09e60c) Create Demand Curve.md — Arthur Tkachenko
+- [`de0b0aa`](https://github.com/LLazyEmail/awesome-newsletters/commit/de0b0aa68dfdaa27a73c085eb12029ce1c83e8c6) Create templates.md — Arthur Tkachenko
+- [`5d2a8ec`](https://github.com/LLazyEmail/awesome-newsletters/commit/5d2a8ec2b9fb96dacc9e02026e9833642c02534a) Update README.md — Arthur Tkachenko
+- [`0017a04`](https://github.com/LLazyEmail/awesome-newsletters/commit/0017a047f0bab542193a26215605f7a8bf8f9071) Update README.md — Arthur Tkachenko
+- [`2b47ae8`](https://github.com/LLazyEmail/awesome-newsletters/commit/2b47ae8a0e2910e92edd4c5f9ca3368621b059d4) Update README.md — Arthur Tkachenko
+- [`c5c485f`](https://github.com/LLazyEmail/awesome-newsletters/commit/c5c485fffffc3ee2ff43830f750b37f5beaa2689) Create markdown-and-unite.md — Arthur Tkachenko
+- [`7e83a3b`](https://github.com/LLazyEmail/awesome-newsletters/commit/7e83a3b1bdf7bb6e652174e1f03be9434748cb6b) Update README.md — Arthur Tkachenko
+- [`46b0e3a`](https://github.com/LLazyEmail/awesome-newsletters/commit/46b0e3af450675a628f8bde054b0c53cd8fa9269) Create pt-5-building-a-list.md — Arthur Tkachenko
+- [`2498ca7`](https://github.com/LLazyEmail/awesome-newsletters/commit/2498ca73407d55a2e13cdb1482b679f4ff31b923) Create services.md — Arthur Tkachenko
+- [`6647565`](https://github.com/LLazyEmail/awesome-newsletters/commit/66475653f47c18f4ad1d06feb686a93220d3efcb) Create йгуышщтыюьв — Arthur Tkachenko
+- [`208f987`](https://github.com/LLazyEmail/awesome-newsletters/commit/208f987d144c64df8e07e3b161555b48e53e9f4a) Update README.md — Arthur Tkachenko
+- [`d365267`](https://github.com/LLazyEmail/awesome-newsletters/commit/d365267d475807a8ae44ad07b485700963c9ad59) Create reasons.md — Arthur Tkachenko
+- [`1d90f3a`](https://github.com/LLazyEmail/awesome-newsletters/commit/1d90f3af6ffa0efb4f2ad6033303e38c325fce22) Update monetization.md — Arthur Tkachenko
+- [`22d01ec`](https://github.com/LLazyEmail/awesome-newsletters/commit/22d01ecc4f73e1367e80362f180b89850ec902d3) Create monetization.md — Arthur Tkachenko
+- [`4a6ce83`](https://github.com/LLazyEmail/awesome-newsletters/commit/4a6ce8397878aa422d6e22eef976532ceb22b7df) Update README.md — Arthur Tkachenko
+- [`2c29f7e`](https://github.com/LLazyEmail/awesome-newsletters/commit/2c29f7e731064c7de253bd9bb9d215773d26b830) Create templates-creation.md — Arthur Tkachenko
+- [`4fb45b4`](https://github.com/LLazyEmail/awesome-newsletters/commit/4fb45b4d11dee113ccd5eac62a04391533bfea74) Create repositories to explore.md — Arthur Tkachenko
+- [`b087f58`](https://github.com/LLazyEmail/awesome-newsletters/commit/b087f58e71175df72727348ca474b738cb8c221c) Update README.md — Arthur Tkachenko
+- [`22f7120`](https://github.com/LLazyEmail/awesome-newsletters/commit/22f712077c3cffc29798640269ea627b023e1843) Update README.md — Arthur Tkachenko
+- [`18ea54a`](https://github.com/LLazyEmail/awesome-newsletters/commit/18ea54aa182b8c05b38432ff89da218a615d7877) Update README.md — Arthur Tkachenko
+- [`82114d8`](https://github.com/LLazyEmail/awesome-newsletters/commit/82114d870f13e52ad3050e69022ade22323c2e83) Update README.md — Arthur Tkachenko
+- [`bc9d2f2`](https://github.com/LLazyEmail/awesome-newsletters/commit/bc9d2f22f7bd80549dc372181d66acdd2aeed31f) Create content.md — Arthur Tkachenko
+- [`376b446`](https://github.com/LLazyEmail/awesome-newsletters/commit/376b446ed938b9c44ae8a276b092f93c45e3f701) Create content.md — Arthur Tkachenko
+- [`3305295`](https://github.com/LLazyEmail/awesome-newsletters/commit/330529510d55a988730cd060ab0b6da7da27dd65) Create lesson2 — Arthur Tkachenko
+- [`230254f`](https://github.com/LLazyEmail/awesome-newsletters/commit/230254fd338a4019463c5645b0766754f4fa059e) Update pln — Arthur Tkachenko
+- [`3cccdae`](https://github.com/LLazyEmail/awesome-newsletters/commit/3cccdaef3c59afc19b520bdbdf8f8e9c3d2066c7) Create pln — Arthur Tkachenko
+- [`dde4d22`](https://github.com/LLazyEmail/awesome-newsletters/commit/dde4d220ca7ad8146f45f27be2e34272d9ee06d7) Create стафф — Arthur Tkachenko
+- [`a3daf3e`](https://github.com/LLazyEmail/awesome-newsletters/commit/a3daf3edf89d110fdc64a24180e6b532afbee560) Create content.md — Arthur Tkachenko
+- [`1e8371c`](https://github.com/LLazyEmail/awesome-newsletters/commit/1e8371ccb49de16675ca62db0f680068ecfb9ac7) Update README.md — Arthur Tkachenko
+- [`40505bf`](https://github.com/LLazyEmail/awesome-newsletters/commit/40505bf75bf615e41f3bfceea342f51a11332d7a) Initial commit — Arthur Tkachenko
