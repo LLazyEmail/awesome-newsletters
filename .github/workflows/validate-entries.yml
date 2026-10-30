@@ -14,7 +14,7 @@ on:
 
 jobs:
   entry-format:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@v1
     with:
       checks: entry-format
       entry-format-mode: fail
