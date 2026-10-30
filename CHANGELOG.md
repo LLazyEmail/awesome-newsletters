@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-10-30
 
+- [`#125`](https://github.com/LLazyEmail/awesome-newsletters/pull/125) fix(ci): rebase-retry when regen workflows push to main — Arthur Tkachenko
 - [`#124`](https://github.com/LLazyEmail/awesome-newsletters/pull/124) fix(changelog): pass auto-changelog --output on CLI (unsafe-config) — Arthur Tkachenko
 - [`#120`](https://github.com/LLazyEmail/awesome-newsletters/pull/120) ci: adopt documentation-actions sorted-sections check — Arthur Tkachenko
 - [`#77`](https://github.com/LLazyEmail/awesome-newsletters/pull/77) feat(docs): add JavaScript Weekly notable-newsletter profile — Arthur Tkachenko
