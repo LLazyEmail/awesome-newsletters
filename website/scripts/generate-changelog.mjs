@@ -9,9 +9,19 @@ const websiteRoot = path.resolve(__dirname, '..');
 const outJson = path.join(websiteRoot, 'src/data/changelog.json');
 fs.mkdirSync(path.dirname(outJson), {recursive: true});
 
+// Pass --output on the CLI: auto-changelog refuses config "output" that
+// escapes the cwd (../CHANGELOG.md from website/). See auto-changelog
+// unsafe-config check.
 const result = spawnSync(
   'npx',
-  ['--yes', 'auto-changelog', '--config', '.auto-changelog'],
+  [
+    '--yes',
+    'auto-changelog',
+    '--config',
+    '.auto-changelog',
+    '--output',
+    '../CHANGELOG.md',
+  ],
   {cwd: websiteRoot, encoding: 'utf8', stdio: 'inherit'},
 );
 if (result.status !== 0) process.exit(result.status ?? 1);
