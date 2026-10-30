@@ -14,7 +14,7 @@ on:
 
 jobs:
   sorted:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-list-checks.yml@v1
     with:
       checks: sorted-sections
       sorted-mode: warn
