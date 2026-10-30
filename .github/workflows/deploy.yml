@@ -10,13 +10,17 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  # contents: write required while reusable nested job deploy-peaceiris declares
+  # contents: write (GitHub validates that even when the job is skipped). After
+  # LLazyEmail/documentation-actions ships the permissions-ceiling fix on v1,
+  # this can return to contents: read for the Actions Pages path.
+  contents: write
   pages: write
   id-token: write
 
 jobs:
   deploy:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@v1
     with:
       working-directory: website
       node-version: '20'
