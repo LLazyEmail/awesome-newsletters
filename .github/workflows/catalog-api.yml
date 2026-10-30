@@ -57,4 +57,15 @@ jobs:
           fi
 
           git commit -m "chore(api): regenerate newsletter catalog JSON"
-          git push origin HEAD:main
+          # Concurrent main pushes (changelog + catalog + docs-index + notable)
+          # race; rebase and retry instead of failing the job.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt); rebasing onto origin/main"
+            git pull --rebase origin main
+            sleep $((attempt * 2))
+          done
+          echo "push failed after retries" >&2
+          exit 1
