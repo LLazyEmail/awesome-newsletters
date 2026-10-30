@@ -1,10 +1,11 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-29T20:11:44.552Z",
+  "generatedAt": "2026-10-30T08:36:39.593Z",
   "name": "Awesome Newsletters catalog",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
   "tags": [
+    "analytics",
     "article",
     "deliverability",
     "directory",
@@ -22,7 +23,7 @@
       "id": "einvestigator-list-of-the-best-email-newsletters",
       "name": "eInvestigator: List of the best email newsletters",
       "url": "https://www.einvestigator.com/list-of-the-best-email-newsletters/",
-      "description": "",
+      "description": "long-running roundup of notable email newsletters",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -35,7 +36,7 @@
       "id": "inc-best-newsletters-2020",
       "name": "Inc: Best Newsletters 2020",
       "url": "https://www.inc.com/jessica-stillman/best-newsletters-2020.html",
-      "description": "",
+      "description": "Inc magazine picks from 2020 (historical snapshot)",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -48,7 +49,7 @@
       "id": "insidehook-best-single-operator-email-newsletters",
       "name": "InsideHook: Best single-operator email newsletters",
       "url": "https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet",
-      "description": "",
+      "description": "profiles of one-person newsletter operations",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -60,11 +61,12 @@
       "id": "letterlist",
       "name": "Letterlist",
       "url": "https://letterlist.com/",
-      "description": "",
+      "description": "searchable directory of newsletters across topics",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
       "tags": [
+        "directory",
         "readme"
       ]
     },
@@ -72,7 +74,7 @@
       "id": "local-news-lab-email-newsletters-reading-list",
       "name": "Local News Lab: Email newsletters reading list",
       "url": "https://localnewslab.org/guide/newsletters/appendix-one-email-newsletters-reading-list/",
-      "description": "",
+      "description": "journalism-focused newsletter reading list",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -84,7 +86,7 @@
       "id": "luminary-labs-200-newsletters-crowdsourced",
       "name": "Luminary Labs: 200 newsletters (crowdsourced)",
       "url": "https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/",
-      "description": "",
+      "description": "crowdsourced “must-read” newsletter compilation",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -96,7 +98,7 @@
       "id": "supply-chain-digital-top-10-supply-chain-newsletters",
       "name": "Supply Chain Digital: Top 10 supply chain newsletters",
       "url": "https://supplychaindigital.com/top10/top-10-supply-chain-newsletters",
-      "description": "",
+      "description": "vertical shortlist for supply-chain readers",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -108,7 +110,7 @@
       "id": "the-coolist-best-newsletters",
       "name": "The Coolist: Best newsletters",
       "url": "https://www.thecoolist.com/best-newsletters/",
-      "description": "",
+      "description": "general “best newsletters” roundup article",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -219,7 +221,7 @@
       "id": "really-good-emails",
       "name": "Really Good Emails",
       "url": "https://reallygoodemails.com/",
-      "description": "",
+      "description": "gallery of real email designs and campaigns",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -231,12 +233,13 @@
       "id": "really-good-emails-codepen-example",
       "name": "Really Good Emails CodePen example",
       "url": "https://codepen.io/reallygoodemails/pen/zYYPWVR",
-      "description": "",
+      "description": "sample HTML email layout on CodePen",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
       "tags": [
-        "readme"
+        "readme",
+        "templates"
       ]
     },
     {
@@ -571,16 +574,15 @@
       ]
     },
     {
-      "id": "mailchimp-html-email-basics",
-      "name": "Mailchimp: HTML email basics",
-      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
-      "description": "",
+      "id": "can-i-email",
+      "name": "Can I email",
+      "url": "https://www.caniemail.com/",
+      "description": "support tables for HTML/CSS features in email clients",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
       "tags": [
-        "readme",
-        "templates"
+        "readme"
       ]
     },
     {
@@ -602,6 +604,45 @@
       "name": "Litmus community: accessible newsletter email",
       "url": "https://litmus.com/community/templates/32-accessible-newsletter-email",
       "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "mailchimp-html-email-basics",
+      "name": "Mailchimp: HTML email basics",
+      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
+      "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "maizzle-documentation",
+      "name": "Maizzle documentation",
+      "url": "https://maizzle.com/docs/",
+      "description": "Tailwind-based email framework docs",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme",
+        "templates"
+      ]
+    },
+    {
+      "id": "mjml",
+      "name": "MJML",
+      "url": "https://mjml.io/",
+      "description": "responsive email framework that compiles to client-friendly HTML",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -1024,6 +1065,253 @@
       ]
     },
     {
+      "id": "indie-hackers",
+      "name": "Indie Hackers",
+      "url": "https://www.indiehackers.com/",
+      "description": "founder discussions, including newsletter builds",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "r-newsletter",
+      "name": "r/newsletter",
+      "url": "https://www.reddit.com/r/newsletter/",
+      "description": "Reddit community for newsletter creators and readers",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "r-emailmarketing",
+      "name": "r/Emailmarketing",
+      "url": "https://www.reddit.com/r/Emailmarketing/",
+      "description": "broader email marketing discussion",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "only-influencers",
+      "name": "Only Influencers",
+      "url": "https://www.onlyinfluencers.com/",
+      "description": "email industry community and commentary",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "newsletter-operator",
+      "name": "Newsletter Operator",
+      "url": "https://newsletteroperator.com/",
+      "description": "interviews with newsletter operators",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "the-nathan-barry-show",
+      "name": "The Nathan Barry Show",
+      "url": "https://nathanbarry.com/podcast/",
+      "description": "ConvertKit/Kit founder on creators and audience",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "indie-hackers-podcast",
+      "name": "Indie Hackers Podcast",
+      "url": "https://www.indiehackers.com/podcasts",
+      "description": "often features newsletter-led businesses",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "can-spam-act-compliance-guide-for-business",
+      "name": "CAN-SPAM Act: Compliance Guide for Business",
+      "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+      "description": "US FTC guide",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "deliverability",
+        "readme"
+      ]
+    },
+    {
+      "id": "gdpr-eu",
+      "name": "GDPR.eu",
+      "url": "https://gdpr.eu/",
+      "description": "GDPR overview and checklists",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "casl-guidance-crtc",
+      "name": "CASL guidance (CRTC)",
+      "url": "https://crtc.gc.ca/eng/internet/anti.htm",
+      "description": "Canada anti-spam legislation overview",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "deliverability",
+        "readme"
+      ]
+    },
+    {
+      "id": "wellfound-angellist",
+      "name": "Wellfound (AngelList)",
+      "url": "https://wellfound.com/",
+      "description": "startup jobs including content/newsletter roles",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "remote-ok",
+      "name": "Remote OK",
+      "url": "https://remoteok.com/",
+      "description": "remote listings (filter for content / email)",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "linkedin-jobs",
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/",
+      "description": "search “newsletter” / “email marketing”",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "url": "https://www.grammarly.com/",
+      "description": "grammar and clarity assistance",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "hemingway-editor",
+      "name": "Hemingway Editor",
+      "url": "https://hemingwayapp.com/",
+      "description": "readability highlighting",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "url": "https://www.notion.com/",
+      "description": "drafting and editorial calendars",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "google-docs",
+      "name": "Google Docs",
+      "url": "https://docs.google.com/",
+      "description": "collaborative drafting",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "sparkloop",
+      "name": "SparkLoop",
+      "url": "https://sparkloop.app/",
+      "description": "newsletter referral and recommend networks",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "growletters",
+      "name": "Growletters",
+      "url": "https://www.growletters.com/",
+      "description": "growth tooling for newsletters",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "rewardful",
+      "name": "Rewardful",
+      "url": "https://www.rewardful.com/",
+      "description": "affiliate/referral for SaaS-style offers",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "monetization",
+        "readme"
+      ]
+    },
+    {
       "id": "5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
       "name": "5 reasons why newsletters should be part of your business strategy",
       "url": "https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy",
@@ -1158,6 +1446,213 @@
       "sourceFile": "README.md",
       "tags": [
         "directory",
+        "readme"
+      ]
+    },
+    {
+      "id": "dense-discovery",
+      "name": "Dense Discovery",
+      "url": "https://www.dense-discovery.com/",
+      "description": "design & curiosity newsletter with a distinctive editorial voice",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "lenny-s-newsletter",
+      "name": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/",
+      "description": "product and growth essays popular with operators",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "morning-brew",
+      "name": "Morning Brew",
+      "url": "https://www.morningbrew.com/",
+      "description": "high-volume business newsletter known for voice and growth loops",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "stratechery",
+      "name": "Stratechery",
+      "url": "https://stratechery.com/",
+      "description": "subscription analysis of strategy and tech platforms",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "the-hustle",
+      "name": "The Hustle",
+      "url": "https://thehustle.co/",
+      "description": "business/tech stories with a strong free-to-paid funnel history",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "monetization",
+        "readme"
+      ]
+    },
+    {
+      "id": "the-lookout",
+      "name": "The Lookout",
+      "url": "https://blog.pragmaticengineer.com/",
+      "description": "engineering leadership writing (Pragmatic Engineer)",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "tldr",
+      "name": "TLDR",
+      "url": "https://tldr.tech/",
+      "description": "curated tech news digests with clear niche editions",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "litmus-email-analytics-overview",
+      "name": "Litmus: email analytics overview",
+      "url": "https://www.litmus.com/blog/email-analytics",
+      "description": "practical primer on email metrics and testing",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "analytics",
+        "readme"
+      ]
+    },
+    {
+      "id": "mailchimp-email-marketing-benchmarks",
+      "name": "Mailchimp: email marketing benchmarks",
+      "url": "https://mailchimp.com/resources/email-marketing-benchmarks/",
+      "description": "industry benchmark ranges by sector",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "analytics",
+        "readme"
+      ]
+    },
+    {
+      "id": "sparkloop",
+      "name": "SparkLoop",
+      "url": "https://sparkloop.app/",
+      "description": "referral and growth analytics aimed at newsletter audiences",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "analytics",
+        "growth",
+        "readme"
+      ]
+    },
+    {
+      "id": "valid-emails-email-marketing-metrics-that-matter",
+      "name": "Valid Emails: email marketing metrics that matter",
+      "url": "https://www.validemails.com/blog/email-marketing-metrics",
+      "description": "concise metrics checklist for operators",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "analytics",
+        "readme"
+      ]
+    },
+    {
+      "id": "beehiiv",
+      "name": "beehiiv",
+      "url": "https://www.beehiiv.com/",
+      "description": "newsletter platform focused on growth, referrals, and monetization",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "growth",
+        "monetization",
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "buttondown",
+      "name": "Buttondown",
+      "url": "https://buttondown.email/",
+      "description": "simple, writer-friendly hosted newsletters with a plain-text ethos",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "convertkit-kit",
+      "name": "ConvertKit (Kit)",
+      "url": "https://convertkit.com/",
+      "description": "creator marketing hub with sequences and commerce",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "url": "https://ghost.org/",
+      "description": "open-source publishing platform with memberships and newsletters",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
+        "readme"
+      ]
+    },
+    {
+      "id": "substack",
+      "name": "Substack",
+      "url": "https://substack.com/",
+      "description": "popular subscription newsletter network and editor",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "platform",
         "readme"
       ]
     },
