@@ -13,7 +13,7 @@ const warnOnly = process.argv.includes('--warn');
 const readme = fs.readFileSync('README.md', 'utf8');
 const lines = readme.split('\n');
 
-const entryRe = /^\s*[-*]\s+\[([^\]]+)\]\(([^)]+)\)(.*)$/;
+const entryRe = /^\s*[-*]\s+(?:[^\[]*?\s)?\[([^\]]+)\]\(([^)]+)\)(.*)$/;
 const urlRe = /^https?:\/\//i;
 const errors = [];
 const warnings = [];
