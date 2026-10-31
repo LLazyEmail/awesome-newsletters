@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-10-31
 
+- [`#129`](https://github.com/LLazyEmail/awesome-newsletters/pull/129) ci: adopt documentation-actions catalog-api (catalog.json) — Arthur Tkachenko
 - [`#128`](https://github.com/LLazyEmail/awesome-newsletters/pull/128) ci: adopt documentation-actions catalog-api (notable-newsletters) — Arthur Tkachenko
 - [`#127`](https://github.com/LLazyEmail/awesome-newsletters/pull/127) fix(ci): pin Pages deploy to @v1 and unblock startup_failure — Arthur Tkachenko
 - [`#126`](https://github.com/LLazyEmail/awesome-newsletters/pull/126) ci: pin documentation-actions to @v1 (v1.1.1) — Arthur Tkachenko
@@ -107,6 +108,7 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`#5`](https://github.com/LLazyEmail/awesome-newsletters/pull/5) docs: restructure README with TOC and titled links — Arthur Tkachenko
 - [`#4`](https://github.com/LLazyEmail/awesome-newsletters/pull/4) chore: add MIT LICENSE — Arthur Tkachenko
 - [`#2`](https://github.com/LLazyEmail/awesome-newsletters/pull/2) Update content.md — Arthur Tkachenko
+- [`4c71a16`](https://github.com/LLazyEmail/awesome-newsletters/commit/4c71a163adb0fbaddce59b46e5479ae9d5b33074) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`6e39b0d`](https://github.com/LLazyEmail/awesome-newsletters/commit/6e39b0dd34f714d02ecc8b72e2af42d42888162e) ci: adopt documentation-actions catalog-api for notable-newsletters — Arthur Tkachenko
 - [`82793c5`](https://github.com/LLazyEmail/awesome-newsletters/commit/82793c52bce6945a6dec04c971d19a54301181d0) fix(ci): pin Pages deploy reusable to @v1 and unblock startup — atherdon
 - [`df8c5f5`](https://github.com/LLazyEmail/awesome-newsletters/commit/df8c5f5d94450615ca987b3919a208d40c80b533) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
