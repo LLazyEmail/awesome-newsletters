@@ -1,0 +1,64 @@
+name: Docs CI
+
+# Consolidates markdown-lint + link-check + test-deploy into one caller.
+# merge after DA release that includes #40 (docs-ci) and #39 (annotations / pr-comment).
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'CONTRIBUTING.md'
+      - 'AGENTS.md'
+      - 'CLAUDE.md'
+      - 'CHANGELOG.md'
+      - 'notes/**'
+      - 'website/**'
+      - '.github/workflows/docs-ci.yml'
+      - '.markdownlint.json'
+      - '.lychee.toml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'CONTRIBUTING.md'
+      - 'AGENTS.md'
+      - 'CLAUDE.md'
+      - 'CHANGELOG.md'
+      - 'notes/**'
+      - 'website/**'
+      - '.markdownlint.json'
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  docs-ci:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-ci.yml@v1
+    with:
+      working-directory: website
+      cache-dependency-path: website/package-lock.json
+      node-version: '20'
+      run-markdownlint: true
+      markdownlint-globs: |
+        README.md
+        CONTRIBUTING.md
+        AGENTS.md
+        CLAUDE.md
+      run-lychee: true
+      lychee-args: >-
+        --verbose
+        --no-progress
+        --max-concurrency 8
+        --accept 200,204,206,403,429
+        --timeout 20
+        README.md
+        notes/**
+      lychee-create-issue: false
+      run-build: true
+      annotate-log: true
+      pr-comment: true
+    secrets: inherit
