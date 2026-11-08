@@ -11,3 +11,4 @@ description: "Curated resources: Templates & HTML email"
 - [HTML email boilerplate gist](https://gist.github.com/unruthless/11383824)
 - [Litmus community: accessible newsletter email](https://litmus.com/community/templates/32-accessible-newsletter-email) — ⚠️ 404 when checked 2026-10-29
 - [The Grind News (layout reference)](https://thegrind.news/)
+- [They Sent It](https://theysentit.com/) — free archive of real marketing emails and newsletters from 60,000+ brands, searchable by brand and email platform
