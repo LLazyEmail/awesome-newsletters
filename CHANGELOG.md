@@ -4,8 +4,9 @@ All notable changes to this project will be documented in this file. Dates are d
 
 ### Unreleased
 
-> 2026-11-08
+> 2026-11-10
 
+- [`#132`](https://github.com/LLazyEmail/awesome-newsletters/pull/132) Add They Sent It — Arthur Tkachenko
 - [`#131`](https://github.com/LLazyEmail/awesome-newsletters/pull/131) ci: adopt shared built-image verification — Arthur Tkachenko
 - [`#130`](https://github.com/LLazyEmail/awesome-newsletters/pull/130) ci: consolidate lint/links/build into documentation-actions docs-ci — Arthur Tkachenko
 - [`#129`](https://github.com/LLazyEmail/awesome-newsletters/pull/129) ci: adopt documentation-actions catalog-api (catalog.json) — Arthur Tkachenko
