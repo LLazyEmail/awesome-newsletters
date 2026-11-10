@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-31T08:32:58.995Z",
+  "generatedAt": "2026-11-10T12:37:51.189Z",
   "name": "Awesome Newsletters catalog",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
@@ -656,6 +656,18 @@
       "name": "The Grind News (layout reference)",
       "url": "https://thegrind.news/",
       "description": "",
+      "section": "readme",
+      "sourcePage": "/",
+      "sourceFile": "README.md",
+      "tags": [
+        "readme"
+      ]
+    },
+    {
+      "id": "they-sent-it",
+      "name": "They Sent It",
+      "url": "https://theysentit.com/",
+      "description": "free archive of real marketing emails and newsletters from 60,000+ brands, searchable by brand and email platform",
       "section": "readme",
       "sourcePage": "/",
       "sourceFile": "README.md",
@@ -2243,6 +2255,18 @@
       "name": "The Grind News (layout reference)",
       "url": "https://thegrind.news/",
       "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "they-sent-it",
+      "name": "They Sent It",
+      "url": "https://theysentit.com/",
+      "description": "free archive of real marketing emails and newsletters from 60,000+ brands, searchable by brand and email platform",
       "section": "templates",
       "sourcePage": "/docs/templates",
       "sourceFile": "templates.md",
