@@ -138,6 +138,7 @@ From [How to Monetize Your Newsletter](https://bloggingguide.com/how-to-monetize
 - [Maizzle documentation](https://maizzle.com/docs/) — Tailwind-based email framework docs
 - [MJML](https://mjml.io/) — responsive email framework that compiles to client-friendly HTML
 - [The Grind News (layout reference)](https://thegrind.news/)
+- [They Sent It](https://theysentit.com/) — free archive of real marketing emails and newsletters from 60,000+ brands, searchable by brand and email platform
 
 ## GitHub repositories
 
