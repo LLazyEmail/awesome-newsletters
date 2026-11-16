@@ -13,14 +13,19 @@ import styles from './styles.module.css';
 
 const data = catalog as CatalogPayload;
 
+/** Results rendered per "Show more" click. The full catalog is always searchable. */
+export const PAGE_SIZE = 100;
+
 export default function ResourceFilter(): ReactNode {
   const [query, setQuery] = useState('');
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
+  const [visible, setVisible] = useState(PAGE_SIZE);
 
   const toggleTag = useCallback((tag: string) => {
     setSelectedTags((prev) =>
       prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag],
     );
+    setVisible(PAGE_SIZE);
   }, []);
 
   const filtered = useMemo(() => {
@@ -37,6 +42,7 @@ export default function ResourceFilter(): ReactNode {
   }, [query, selectedTags]);
 
   const tags = data.tags?.length ? data.tags : [];
+  const shown = filtered.slice(0, visible);
 
   return (
     <div>
@@ -46,7 +52,10 @@ export default function ResourceFilter(): ReactNode {
           type="search"
           placeholder="Search newsletters, tools, articles…"
           value={query}
-          onChange={(e) => setQuery(e.target.value)}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            setVisible(PAGE_SIZE);
+          }}
           aria-label="Search catalog"
         />
       </div>
@@ -70,9 +79,10 @@ export default function ResourceFilter(): ReactNode {
       <p className={styles.count}>
         {filtered.length} result{filtered.length === 1 ? '' : 's'}
         {data.items?.length ? ` of ${data.items.length}` : ''}
+        {shown.length < filtered.length ? ` · showing ${shown.length}` : ''}
       </p>
       <ul className={styles.results}>
-        {filtered.slice(0, 200).map((item) => (
+        {shown.map((item) => (
           <li key={`${item.id}-${item.url}`} className={styles.resultItem}>
             <a href={item.url} target="_blank" rel="noopener noreferrer">
               {item.name}
@@ -91,6 +101,22 @@ export default function ResourceFilter(): ReactNode {
           </li>
         ))}
       </ul>
+      {shown.length < filtered.length && (
+        <div className={styles.moreRow}>
+          <button
+            type="button"
+            className="button button--secondary"
+            onClick={() => setVisible((v) => v + PAGE_SIZE)}>
+            Show {Math.min(PAGE_SIZE, filtered.length - shown.length)} more
+          </button>{' '}
+          <button
+            type="button"
+            className="button button--link"
+            onClick={() => setVisible(filtered.length)}>
+            Show all {filtered.length}
+          </button>
+        </div>
+      )}
     </div>
   );
 }

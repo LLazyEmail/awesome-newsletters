@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-31T07:41:35.062Z",
+  "generatedAt": "2026-11-16T21:19:10.861Z",
   "name": "Notable newsletters",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/docs/notable-newsletters",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
-  "count": 15,
+  "count": 14,
   "byTopic": {
     "news": 1,
     "tech": 5,
     "design": 1,
-    "general": 3,
+    "general": 2,
     "finance": 1,
     "business": 3,
     "media": 1
@@ -104,15 +104,6 @@
       "sourcePage": "/docs/notable-newsletters/not-boring",
       "path": "notable-newsletters/not-boring.md",
       "whyStudy": "Why Not Boring is worth studying as a newsletter — format, growth, and monetization notes."
-    },
-    {
-      "id": "overview",
-      "name": "Overview",
-      "topic": "general",
-      "homepage": "",
-      "sourcePage": "/docs/notable-newsletters/overview",
-      "path": "notable-newsletters/overview.md",
-      "whyStudy": "Short profiles of newsletters worth studying for craft and growth patterns."
     },
     {
       "id": "platformer",

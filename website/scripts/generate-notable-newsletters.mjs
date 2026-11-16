@@ -12,7 +12,9 @@ const websiteRoot = path.resolve(__dirname, '..');
 const root = path.join(websiteRoot, 'docs/notable-newsletters');
 const outputPath = path.join(websiteRoot, 'static/api/v1/notable-newsletters.json');
 
-const SKIP = new Set(['index.md', '_SOURCE_TEMPLATE.md']);
+// Category landing pages, not newsletter profiles. overview.md is the
+// sidebar category's intro page and used to be emitted as a "newsletter".
+const SKIP = new Set(['index.md', 'overview.md', '_SOURCE_TEMPLATE.md']);
 
 function walk(dir, out = []) {
   if (!fs.existsSync(dir)) return out;
