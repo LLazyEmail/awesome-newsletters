@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-11-17T12:59:54.378Z",
+  "generatedAt": "2026-11-17T13:01:07.969Z",
   "name": "Awesome Newsletters catalog",
   "homepage": "https://llazyemail.github.io/awesome-newsletters/",
   "repository": "https://github.com/LLazyEmail/awesome-newsletters",
@@ -1672,7 +1672,7 @@
       "id": "einvestigator-list-of-the-best-email-newsletters",
       "name": "eInvestigator: List of the best email newsletters",
       "url": "https://www.einvestigator.com/list-of-the-best-email-newsletters/",
-      "description": "",
+      "description": "long-running roundup of notable email newsletters",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1684,7 +1684,7 @@
       "id": "inc-best-newsletters-2020",
       "name": "Inc: Best Newsletters 2020",
       "url": "https://www.inc.com/jessica-stillman/best-newsletters-2020.html",
-      "description": "",
+      "description": "Inc magazine picks from 2020 (historical snapshot)",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1696,7 +1696,7 @@
       "id": "insidehook-best-single-operator-email-newsletters",
       "name": "InsideHook: Best single-operator email newsletters",
       "url": "https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet",
-      "description": "",
+      "description": "profiles of one-person newsletter operations",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1708,7 +1708,7 @@
       "id": "letterlist",
       "name": "Letterlist",
       "url": "https://letterlist.com/",
-      "description": "",
+      "description": "searchable directory of newsletters across topics",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1720,7 +1720,7 @@
       "id": "local-news-lab-email-newsletters-reading-list",
       "name": "Local News Lab: Email newsletters reading list",
       "url": "https://localnewslab.org/guide/newsletters/appendix-one-email-newsletters-reading-list/",
-      "description": "",
+      "description": "journalism-focused newsletter reading list",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1732,7 +1732,7 @@
       "id": "luminary-labs-200-newsletters-crowdsourced",
       "name": "Luminary Labs: 200 newsletters (crowdsourced)",
       "url": "https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/",
-      "description": "",
+      "description": "crowdsourced “must-read” newsletter compilation",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1744,7 +1744,7 @@
       "id": "supply-chain-digital-top-10-supply-chain-newsletters",
       "name": "Supply Chain Digital: Top 10 supply chain newsletters",
       "url": "https://supplychaindigital.com/top10/top-10-supply-chain-newsletters",
-      "description": "",
+      "description": "vertical shortlist for supply-chain readers",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1756,7 +1756,7 @@
       "id": "the-coolist-best-newsletters",
       "name": "The Coolist: Best newsletters",
       "url": "https://www.thecoolist.com/best-newsletters/",
-      "description": "",
+      "description": "general “best newsletters” roundup article",
       "section": "directories",
       "sourcePage": "/docs/directories",
       "sourceFile": "directories.md",
@@ -1866,7 +1866,7 @@
       "id": "really-good-emails",
       "name": "Really Good Emails",
       "url": "https://reallygoodemails.com/",
-      "description": "",
+      "description": "gallery of real email designs and campaigns",
       "section": "articles",
       "sourcePage": "/docs/articles",
       "sourceFile": "articles.md",
@@ -1878,12 +1878,13 @@
       "id": "really-good-emails-codepen-example",
       "name": "Really Good Emails CodePen example",
       "url": "https://codepen.io/reallygoodemails/pen/zYYPWVR",
-      "description": "",
+      "description": "sample HTML email layout on CodePen",
       "section": "articles",
       "sourcePage": "/docs/articles",
       "sourceFile": "articles.md",
       "tags": [
-        "article"
+        "article",
+        "templates"
       ]
     },
     {
@@ -2214,10 +2215,10 @@
       ]
     },
     {
-      "id": "mailchimp-html-email-basics",
-      "name": "Mailchimp: HTML email basics",
-      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
-      "description": "",
+      "id": "can-i-email",
+      "name": "Can I email",
+      "url": "https://www.caniemail.com/",
+      "description": "support tables for HTML/CSS features in email clients",
       "section": "templates",
       "sourcePage": "/docs/templates",
       "sourceFile": "templates.md",
@@ -2243,6 +2244,42 @@
       "name": "Litmus community: accessible newsletter email",
       "url": "https://litmus.com/community/templates/32-accessible-newsletter-email",
       "description": "⚠️ 404 when checked 2026-10-29",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "mailchimp-html-email-basics",
+      "name": "Mailchimp: HTML email basics",
+      "url": "https://templates.mailchimp.com/getting-started/html-email-basics/",
+      "description": "",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "maizzle-documentation",
+      "name": "Maizzle documentation",
+      "url": "https://maizzle.com/docs/",
+      "description": "Tailwind-based email framework docs",
+      "section": "templates",
+      "sourcePage": "/docs/templates",
+      "sourceFile": "templates.md",
+      "tags": [
+        "templates"
+      ]
+    },
+    {
+      "id": "mjml",
+      "name": "MJML",
+      "url": "https://mjml.io/",
+      "description": "responsive email framework that compiles to client-friendly HTML",
       "section": "templates",
       "sourcePage": "/docs/templates",
       "sourceFile": "templates.md",
