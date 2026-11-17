@@ -35,6 +35,7 @@ Docs site (GitHub Pages): [`https://llazyemail.github.io/awesome-newsletters/`](
 - [Newsletters to study](#newsletters-to-study)
 - [Newsletter analytics & metrics](#newsletter-analytics--metrics)
 - [Newsletter platforms](#newsletter-platforms)
+- [Automation and reports](#automation-and-reports)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -291,6 +292,37 @@ Tools commonly used to write, host, and send independent newsletters. For broade
 - [ConvertKit (Kit)](https://convertkit.com/) — creator marketing hub with sequences and commerce
 - [Ghost](https://ghost.org/) — open-source publishing platform with memberships and newsletters
 - [Substack](https://substack.com/) — popular subscription newsletter network and editor
+
+## Automation and reports
+
+Every workflow lives in [`.github/workflows/`](./.github/workflows) and calls a shared reusable workflow from [documentation-actions](https://github.com/LLazyEmail/documentation-actions). The Docusaurus site lives in [`website/`](./website).
+
+### Where to find the reports
+
+| Report | Where it shows up | When |
+| --- | --- | --- |
+| **Docs CI results** (markdownlint, lychee link check on `README.md` and `notes/`, site build) | On PRs: one bot comment with the counts, plus inline annotations. On the weekly run: the run's summary and log under Actions → *Docs CI* (no issue is opened). | Every PR touching docs, every push to `main`, and Mondays 09:00 UTC |
+| **List checks** (entry format, duplicate links, sorted sections) | Annotations on the PR. Entry format fails the PR; duplicates and unsorted sections only warn. | PRs and pushes to `main` that touch `README.md` |
+| **Auto-rebase summary** | The run's summary page: one line per open PR (updated, skipped and why, or failed with the conflicting files). | Every 6 hours, or run it by hand |
+
+### All workflows
+
+| Workflow | File | Runs on | What it does |
+| --- | --- | --- | --- |
+| Docs CI | `docs-ci.yml` | PRs, push to `main`, Mondays, manual | markdownlint on the top-level docs, lychee on `README.md` and `notes/**`, then a full site build; comments results on the PR. |
+| Validate README entries | `validate-entries.yml` | PRs and pushes touching `README.md` | Fails when a list entry isn't `- [Title](url)`, optionally followed by an em dash and a description, or a source in parentheses. |
+| Check duplicate links | `check-duplicate-links.yml` | PRs and pushes touching `README.md` | Warns when the same URL appears twice. |
+| Check sorted sections | `check-sorted-sections.yml` | PRs and pushes touching `README.md` | Warns when a section's entries aren't alphabetical. |
+| Build images | `build-images.yml` | PRs, manual | Builds the site and checks that every referenced image exists. |
+| Star request comment | `star-request.yml` | Newly opened PRs, including forks | Comments thanking the contributor and asking for a ⭐. |
+| Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicts are reported, not force-pushed. |
+| Update changelog | `changelog.yml` | Push to `main` | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them. |
+| Update catalog API | `catalog-api.yml` | Push to `main` touching `README.md` or docs | Regenerates `website/src/data/catalog.json` and `website/static/api/v1/catalog.json`. |
+| Update notable-newsletters API | `notable-newsletters-api.yml` | Push to `main` touching `website/docs/notable-newsletters/` | Regenerates `website/static/api/v1/notable-newsletters.json`. |
+| Update docs pages index | `docs-index.yml` | Push to `main` touching `website/docs/` | Regenerates `website/docs/pages-index.md`. |
+| Deploy to GitHub Pages | `deploy.yml` | Push to `main` touching `website/`, manual | Builds `website/` and publishes it to <https://llazyemail.github.io/awesome-newsletters/>. |
+
+Bot commits from the changelog, catalog, notable-newsletters and docs-index jobs are expected; don't edit those generated files by hand.
 
 ## Contributing
 
