@@ -4,8 +4,9 @@ All notable changes to this project will be documented in this file. Dates are d
 
 ### Unreleased
 
-> 2026-11-10
+> 2026-11-17
 
+- [`#138`](https://github.com/LLazyEmail/awesome-newsletters/pull/138) fix(website): drop overview from notable JSON, paginate Explore, keep metrics.json fresh — Arthur Tkachenko
 - [`#132`](https://github.com/LLazyEmail/awesome-newsletters/pull/132) Add They Sent It — Arthur Tkachenko
 - [`#131`](https://github.com/LLazyEmail/awesome-newsletters/pull/131) ci: adopt shared built-image verification — Arthur Tkachenko
 - [`#130`](https://github.com/LLazyEmail/awesome-newsletters/pull/130) ci: consolidate lint/links/build into documentation-actions docs-ci — Arthur Tkachenko
@@ -111,6 +112,7 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`#5`](https://github.com/LLazyEmail/awesome-newsletters/pull/5) docs: restructure README with TOC and titled links — Arthur Tkachenko
 - [`#4`](https://github.com/LLazyEmail/awesome-newsletters/pull/4) chore: add MIT LICENSE — Arthur Tkachenko
 - [`#2`](https://github.com/LLazyEmail/awesome-newsletters/pull/2) Update content.md — Arthur Tkachenko
+- [`915d78d`](https://github.com/LLazyEmail/awesome-newsletters/commit/915d78dbcae43ab32213e6f2a8fb4125a83db6ae) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
 - [`14cc6c3`](https://github.com/LLazyEmail/awesome-newsletters/commit/14cc6c34fbc821de653a827b4cdc00a215d573d2) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
 - [`4c71a16`](https://github.com/LLazyEmail/awesome-newsletters/commit/4c71a163adb0fbaddce59b46e5479ae9d5b33074) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`6e39b0d`](https://github.com/LLazyEmail/awesome-newsletters/commit/6e39b0dd34f714d02ecc8b72e2af42d42888162e) ci: adopt documentation-actions catalog-api for notable-newsletters — Arthur Tkachenko
