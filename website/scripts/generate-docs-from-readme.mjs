@@ -21,8 +21,35 @@ const MAPPING = [
   ['Templates & HTML email', 'templates.md', 'Templates & HTML email'],
   ['GitHub repositories', 'github-repos.md', 'GitHub repositories'],
   ['Ops, deliverability & Sendy notes', 'ops.md', 'Ops & deliverability'],
+  ['Compliance & privacy', 'compliance.md', 'Compliance & privacy'],
+  ['Careers & jobs', 'careers.md', 'Careers & jobs'],
+  ['Writer & editing tools', 'writer-tools.md', 'Writer & editing tools'],
+  ['Referral & growth tools', 'referral-tools.md', 'Referral & growth tools'],
   ['Arthur Tkachenko articles', 'arthur-articles.md', 'Arthur Tkachenko articles'],
+  ['Course / lesson scratch notes', 'course-notes.md', 'Course notes'],
+  ['Link health', 'link-health.md', 'Link health'],
+  ['Newsletters to study', 'newsletters-to-study.md', 'Newsletters to study'],
+  ['Newsletter analytics & metrics', 'analytics.md', 'Analytics & metrics'],
 ];
+
+const FOOTERS = {
+  'newsletters-to-study.md':
+    'Longer profiles of many of these titles are under [Notable newsletters](./notable-newsletters/overview.md).',
+};
+
+const REPO_BLOB = 'https://github.com/LLazyEmail/awesome-newsletters/blob/main';
+
+/** README anchors and repo-relative paths do not resolve on the docs site. */
+function rewriteRepoLinks(body) {
+  return body
+    .replaceAll('](./notes/README.md)', `](${REPO_BLOB}/notes/README.md)`)
+    .replaceAll('](./CONTRIBUTING.md)', `](${REPO_BLOB}/CONTRIBUTING.md)`)
+    .replaceAll('](./LICENSE)', `](${REPO_BLOB}/LICENSE)`)
+    .replaceAll(
+      '[Course / lesson scratch notes](#course--lesson-scratch-notes)',
+      '[Course / lesson scratch notes](./course-notes.md)',
+    );
+}
 
 if (!fs.existsSync(readmePath)) {
   console.error('README.md not found at', readmePath);
@@ -48,11 +75,13 @@ if (present.length < 5) {
 
 let written = 0;
 for (const [title, file, sidebar] of MAPPING) {
-  const body = sections.get(title);
-  if (!body) {
+  const raw = sections.get(title);
+  if (!raw) {
     console.warn('skip missing section:', title);
     continue;
   }
+  const body = rewriteRepoLinks(raw);
+  const footer = FOOTERS[file] ? `\n\n${FOOTERS[file]}\n` : '\n';
   const content = `---
 title: "${sidebar}"
 sidebar_label: "${sidebar}"
@@ -61,8 +90,7 @@ description: "Curated resources: ${sidebar}"
 
 # ${sidebar}
 
-${body}
-`;
+${body}${footer}`;
   fs.writeFileSync(path.join(docsRoot, file), content);
   written += 1;
 }

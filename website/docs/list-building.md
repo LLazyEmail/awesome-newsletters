@@ -6,7 +6,7 @@ description: "Curated resources: Building a list"
 
 # Building a list
 
-Ideas and tactics for growing a subscriber list. Also see the longer scratch notes under [`notes/`](https://github.com/LLazyEmail/awesome-newsletters/tree/main/notes) in the repository.
+Ideas and tactics for growing a subscriber list. Also see the longer scratch notes under [Course / lesson scratch notes](./course-notes.md).
 
 - [Email list building ideas](https://www.getresponse.com/blog/email-list-building-ideas) (GetResponse)
 
