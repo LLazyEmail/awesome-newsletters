@@ -1,6 +1,6 @@
 # Guidance for AI coding agents
 
-This repository is an **awesome list** of newsletter-related resources, plus (soon) a Docusaurus docs site under `website/`, mirroring [LLazyEmail/awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing).
+This repository is an **awesome list** of newsletter-related resources, plus a Docusaurus docs site under `website/`, mirroring [LLazyEmail/awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing).
 
 ## Do
 
@@ -21,5 +21,5 @@ This repository is an **awesome list** of newsletter-related resources, plus (so
 
 - `README.md` — curated public list
 - `notes/` — preserved scratch / course notes
-- `website/` — Docusaurus site (when scaffolded)
+- `website/` — Docusaurus site. Generators live in `website/scripts/` (catalog, notable newsletters, metrics, docs-from-README); their JSON output is in `website/static/api/v1/`. Fix a wrong JSON entry in its generator, not only in the output. See [website/README.md](website/README.md) for which workflow refreshes each file.
 - `.github/workflows/` — deploy, test-deploy, lint, link-check, star-request, auto-rebase, changelog

@@ -8,6 +8,7 @@ on:
       - 'README.md'
       - 'website/docs/**'
       - 'website/scripts/generate-catalog.mjs'
+      - 'website/scripts/generate-metrics.mjs'
       - '.github/workflows/catalog-api.yml'
   workflow_dispatch:
 
@@ -20,8 +21,11 @@ jobs:
     with:
       working-directory: website
       node-version: '20'
-      generate-command: node ./scripts/generate-catalog.mjs
-      commit-paths: website/src/data/catalog.json website/static/api/v1/catalog.json
+      # metrics.json counts the same README/docs links, so refresh it in the same
+      # commit. Before this, only `npm run build` (prebuild) regenerated it, and the
+      # committed copy stayed at its first version.
+      generate-command: node ./scripts/generate-catalog.mjs && node ./scripts/generate-metrics.mjs
+      commit-paths: website/src/data/catalog.json website/static/api/v1/catalog.json website/static/api/v1/metrics.json
       commit-message: 'chore(api): regenerate newsletter catalog JSON'
       install: false
       concurrency-group: catalog-api
