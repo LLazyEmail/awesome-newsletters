@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 > 2026-11-17
 
+- [`#134`](https://github.com/LLazyEmail/awesome-newsletters/pull/134) docs(readme): explain every workflow and where each report shows up — Arthur Tkachenko
 - [`#133`](https://github.com/LLazyEmail/awesome-newsletters/pull/133) chore(ci): bump documentation-actions to v2 — Arthur Tkachenko
 - [`#138`](https://github.com/LLazyEmail/awesome-newsletters/pull/138) fix(website): drop overview from notable JSON, paginate Explore, keep metrics.json fresh — Arthur Tkachenko
 - [`#132`](https://github.com/LLazyEmail/awesome-newsletters/pull/132) Add They Sent It — Arthur Tkachenko
@@ -113,6 +114,9 @@ All notable changes to this project will be documented in this file. Dates are d
 - [`#5`](https://github.com/LLazyEmail/awesome-newsletters/pull/5) docs: restructure README with TOC and titled links — Arthur Tkachenko
 - [`#4`](https://github.com/LLazyEmail/awesome-newsletters/pull/4) chore: add MIT LICENSE — Arthur Tkachenko
 - [`#2`](https://github.com/LLazyEmail/awesome-newsletters/pull/2) Update content.md — Arthur Tkachenko
+- [`de62e21`](https://github.com/LLazyEmail/awesome-newsletters/commit/de62e21e3a8960c118ab1b2fb732fc2a9c99b09c) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`606dd9a`](https://github.com/LLazyEmail/awesome-newsletters/commit/606dd9a1a010f5e09fab234e0d1eb1b2c14a9750) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
+- [`630c5fd`](https://github.com/LLazyEmail/awesome-newsletters/commit/630c5fd09ebc3f8c55fec1e34fa011787262c495) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`1af8486`](https://github.com/LLazyEmail/awesome-newsletters/commit/1af8486fd07ee352da7963c7e9bbcb16e05debf0) chore(api): regenerate notable-newsletters JSON — github-actions[bot]
 - [`e172c62`](https://github.com/LLazyEmail/awesome-newsletters/commit/e172c620579a06febfe911faf1b76b99a8d16319) chore(api): regenerate newsletter catalog JSON — github-actions[bot]
 - [`e41f8ae`](https://github.com/LLazyEmail/awesome-newsletters/commit/e41f8ae1d80401a1a25aac8293ccc8c3a2676974) chore(ci): bump documentation-actions pins from @v1 to @v2 — petroved
