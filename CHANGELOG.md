@@ -4,8 +4,9 @@ All notable changes to this project will be documented in this file. Dates are d
 
 ### Unreleased
 
-> 2026-11-18
+> 2026-11-21
 
+- [`#141`](https://github.com/LLazyEmail/awesome-newsletters/pull/141) ci: prefer documentation-actions short-name aliases — Arthur Tkachenko
 - [`#140`](https://github.com/LLazyEmail/awesome-newsletters/pull/140) chore: prefer short reusable-pages-deploy name — Arthur Tkachenko
 - [`#139`](https://github.com/LLazyEmail/awesome-newsletters/pull/139) docs: mirror the remaining README sections on the docs site — Arthur Tkachenko
 - [`#134`](https://github.com/LLazyEmail/awesome-newsletters/pull/134) docs(readme): explain every workflow and where each report shows up — Arthur Tkachenko
