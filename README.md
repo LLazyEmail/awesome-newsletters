@@ -295,7 +295,7 @@ Tools commonly used to write, host, and send independent newsletters. For broade
 
 ## Automation and reports
 
-Every workflow lives in [`.github/workflows/`](./.github/workflows) and calls a shared reusable workflow from [documentation-actions](https://github.com/LLazyEmail/documentation-actions). Where a short-name alias exists, the caller uses it and keeps the same pin (`build-images.yml` calls `reusable-image-check`; deploy already calls `reusable-pages-deploy`). The Docusaurus site lives in [`website/`](./website).
+Every workflow lives in [`.github/workflows/`](./.github/workflows) and calls a shared reusable workflow from [documentation-actions](https://github.com/LLazyEmail/documentation-actions). Where a short-name alias exists, the caller uses it and keeps the same pin (`build-images.yml` calls `reusable-image-check`; `deploy.yml` calls `reusable-pages-deploy`; `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `validate-entries.yml`, `check-duplicate-links.yml` and `check-sorted-sections.yml` call `reusable-awesome-checks`). The Docusaurus site lives in [`website/`](./website).
 
 ### Where to find the reports
 
