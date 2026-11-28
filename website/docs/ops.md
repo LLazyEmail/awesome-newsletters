@@ -10,6 +10,7 @@ description: "Curated resources: Ops & deliverability"
 - [Burner email providers list](https://github.com/wesbos/burner-email-providers) (also see historical gist [michenriksen/8710649](https://gist.github.com/michenriksen/8710649) — ⚠️ gist 404 when checked 2026-10-29; prefer wesbos list above)
 - [docker-sendy](https://github.com/emmanuelvisage/docker-sendy)
 - [Google Apps CheckMX](https://toolbox.googleapps.com/apps/checkmx/check?domain=noonifications.tech&dkim_selector=)
+- [MAILALO Clean guide](https://mailalo.com/docs/clean) — Review a mailing list from CSV or TXT, get a quote for unique addresses and export classifications with reasons.
 - [Postmark Spamcheck](https://spamcheck.postmarkapp.com/)
 - [Sendy API](https://sendy.co/api)
 - [Sendy forum: custom redirect after signup](https://sendy.co/forum/discussion/15114/custom-redirect-after-signup-form-submission)
