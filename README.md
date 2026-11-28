@@ -303,7 +303,7 @@ Every workflow lives in [`.github/workflows/`](./.github/workflows) and calls a 
 | --- | --- | --- |
 | **Docs CI results** (markdownlint, lychee link check on `README.md` and `notes/`, site build) | On PRs: one bot comment with the counts, plus inline annotations. On the weekly run: the run's summary and log under Actions → *Docs CI* (no issue is opened). | Every PR touching docs, every push to `main`, and Mondays 09:00 UTC |
 | **List checks** (entry format, duplicate links, sorted sections) | Annotations on the PR. Entry format fails the PR; duplicates and unsorted sections only warn. | PRs and pushes to `main` that touch `README.md` |
-| **Auto-rebase summary** | The run's summary page: one line per open PR (updated, skipped and why, or failed with the conflicting files). | Every 6 hours, or run it by hand |
+| **Auto-rebase summary** | The run's summary page: an overview table with one row per open PR (updated, up to date, conflict, failed) and a *Checks not green* column. Conflicting PRs get the `has-conflicts` label and turn the run red; PRs with failing checks get `checks-failing`. | Every 6 hours, or run it by hand |
 
 ### All workflows
 
@@ -315,7 +315,7 @@ Every workflow lives in [`.github/workflows/`](./.github/workflows) and calls a 
 | Check sorted sections | `check-sorted-sections.yml` | PRs and pushes touching `README.md` | Warns when a section's entries aren't alphabetical. |
 | Build images | `build-images.yml` | PRs, manual | Builds the site and checks that every referenced image exists. |
 | Star request comment | `star-request.yml` | Newly opened PRs, including forks | Comments thanking the contributor and asking for a ⭐. |
-| Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicts are reported, not force-pushed. |
+| Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicts are labelled `has-conflicts` and turn the run red, not force-pushed. PRs with failing checks are labelled `checks-failing`. Failing check names need the `AUTO_REBASE_TOKEN` secret (a personal access token that can read checks); without it the workflow uses GitHub's "unstable" merge state. |
 | Update changelog | `changelog.yml` | Push to `main` | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them. |
 | Update catalog API | `catalog-api.yml` | Push to `main` touching `README.md` or docs | Regenerates `website/src/data/catalog.json` and `website/static/api/v1/catalog.json`. |
 | Update notable-newsletters API | `notable-newsletters-api.yml` | Push to `main` touching `website/docs/notable-newsletters/` | Regenerates `website/static/api/v1/notable-newsletters.json`. |
